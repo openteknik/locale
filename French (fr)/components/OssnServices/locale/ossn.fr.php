@@ -1,0 +1,47 @@
+<?php
+/**
+* Translated locale
+* ossn.fr.php
+**/
+
+ossn_register_languages('fr', array(
+	 'ossnservices' => 'Services Web', 
+	 'ossnservices:apikey' => 'API KEY (veuillez garder le secret)', 
+	 'ossnservices:regenerate:key' => 'Régénérer', 
+	 'ossnservices:generated' => 'Généré', 
+	 'ossnservices:invalidmethod' => 'Méthode non valide', 
+	 'ossnservices:success' => 'Demande exécutée avec succès', 
+	 'ossnservices:noresponse' => 'La méthode demandée n\'a pas de paypload pour vous', 
+	 'ossnservices:nouser' => 'Il n\'existe aucun utilisateur de ce type', 
+	 'ossnservices:usernotvalidated' => 'Utilisateur non validé', 
+	 'ossnservices:invalidkeytoken' => 'Jeton KEY API non valide', 
+	 'ossnservices:invalidversion' => 'Version d\'API non valide', 
+	 'ossnservices:invalidemail' => 'Adresse électronique non valide', 
+	 'ossnservices:emailalreadyinuse' => 'Adresse électronique déjà utilisée, utilisez une adresse électronique différente', 
+	 'ossnservices:invalidpassword' => 'Mot de passe non valide, assurez-vous que le mot de passe est de longueur minimale %s', 
+	 'ossnservices:usereditfailed' => 'La modification de l\'utilisateur a échoué !', 
+	 'ossnservices:useredit:mindetails' => 'Veuillez fournir le nouveau_email, new_first_name, new_last_name', 
+	 'ossnservices:useradd:allfields' => 'Assurez-vous d\'avoir fourni toutes les zones manquantes (%s)', 
+	 'ossnservices:useradd:invalidgender' => 'Le sexe doit être masculin ou féminin.', 
+	 'ossnservices:empty:field:one:more' => 'Une ou plusieurs entrées attendues sont vides. Assurez-vous d\'envoyer toutes les entrées requises', 
+	 'ossnservices:comment:failed:add' => 'Impossible d\'ajouter le commentaire', 
+	 'ossnservices:componnt:notfound' => 'Un ou plusieurs composants requis pour cette demande sont introuvable sur le serveur distant', 
+	 'ossnservices:wall:failed:add' => 'Impossible d\'ajouter un post-mur', 
+	 'ossnservices:invalidoldpassword' => 'Mot de passe en cours incorrect', 
+	 'ossnservices:invalidgroup' => 'Groupe non valide', 
+	 'ossnservices:groupnomembers' => 'Aucun membre', 
+	 'ossnservices:groupnorequests' => 'Aucune demande', 
+	 'ossnservices:invalidowner' => 'Propriétaire non valide', 
+	 'ossnservices:notification:cannotmark' => 'Impossible de marquer la notification comme lu', 
+	 'ossnservices:messagecannotblank' => 'Le message ne peut pas être vide', 
+	 'ossnservices:messagesendfailed' => 'Le message ne peut pas être envoyé', 
+	 'ossnservices:messagedeletefailed' => 'Echec de la suppression du message', 
+	 'ossnservices:cannotdelete:comment' => 'Impossible de supprimer le commentaire !', 
+	 'ossnservices:cannotaddalbum:photo' => 'Impossible d\'ajouter la photo dans l\'album', 
+	 'ossnservices:cannotaddalbum' => 'Impossible de créer l\'album', 
+	 'ossnservices:cannotdelete:photo' => 'Impossible de supprimer des photos', 
+	 'ossnservices:group:create:error' => 'Impossible de créer le groupe !', 
+	 'ossnservices:oneoremore:invalid:input' => 'Une ou plusieurs entrées fournies sont incorrectes', 
+	 'ossnservices:like:failed:add' => 'Echec de l\'ajout de réaction', 
+	 'ossnservices:unlike:failed:add' => 'Contrairement à l\'échec de la définition', 
+));
