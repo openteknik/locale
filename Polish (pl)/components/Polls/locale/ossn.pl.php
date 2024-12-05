@@ -1,0 +1,46 @@
+<?php
+/**
+* Translated locale
+* ossn.pl.php
+**/
+
+ossn_register_languages('pl', array(
+	 'polls' => 'Ankiety', 
+	 'polls:add' => 'Dodaj ankietę', 
+	 'polls:poll' => 'Odpytywanie', 
+	 'polls:title' => 'Tytuł', 
+	 'polls:option:title' => 'Tytuł opcji odpytywania', 
+	 'polls:add:option' => 'Dodaj opcję', 
+	 'polls:options' => 'Opcje', 
+	 'polls:publish' => 'Opublikuj ankietę', 
+	 'polls:error:created' => 'Nie można utworzyć odpytywania', 
+	 'polls:success:created' => 'Ankieta została pomyślnie opublikowana na ścianie', 
+	 'polls:vote' => 'Głosowanie', 
+	 'polls:success:voted' => 'Twoje głosowanie zostało zapisane dla tego odpytywania', 
+	 'polls:failed:voted' => 'Nie można zapisać głosowania dla tego odpytywania', 
+	 'polls:wall:created' => 'utworzono odpytywanie', 
+	 'polls:failed:end' => 'Nie można zakończyć tego odpytywania', 
+	 'polls:success:end' => 'Odpytywanie zostało zakończone', 
+	 'polls:end' => 'Koniec', 
+	 'polls:delete' => 'Usuń', 
+	 'polls:embed' => 'Osadzone', 
+	 'polls:ended' => 'Odpytywanie zostało zakończone', 
+	 'ossn:notifications:comments:entity:poll_entity' => 'Użytkownik %s dodał komentarz do ankiety', 
+	 'ossn:notifications:like:entity:poll_entity' => '%s polubił ankietę', 
+	 'polls:failed:delete' => 'Nie można usunąć odpytywania', 
+	 'polls:success:delete' => 'Odpytywanie zostało usunięte', 
+	 'polls:time' => 'Czas utworzenia', 
+	 'polls:status' => 'Status', 
+	 'polls:status:ended' => 'Zakończone', 
+	 'polls:status:opened' => 'Otwarto', 
+	 'polls:all' => 'Wszystkie odpytywania', 
+	 'polls:group' => 'Grupa', 
+	 'polls:join:group' => 'Aby wyświetlić ankiety, należy dołączyć do grupy.', 
+	 'polls:show:voters' => 'Pokaż głosujących', 
+	 'polls:voters' => 'Głosujący', 
+	 'polls:show:voters:note' => 'Zezwól użytkownikom na zobaczenia głosujących', 
+	 'poll:yes' => 'Tak', 
+	 'poll:no' => 'Nie', 
+	 'polls:error:atleast2' => 'Odpytywanie wymaga co najmniej 2 opcji!', 
+	 'polls:error:duplicate:options' => 'Opcje odpytywania muszą być unikalne!', 
+));
