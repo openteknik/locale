@@ -1,0 +1,46 @@
+<?php
+/**
+* Translated locale
+* ossn.ar.php
+**/
+
+ossn_register_languages('ar', array(
+	 'polls' => 'الاقتراعات', 
+	 'polls:add' => 'اضافة اقتراع', 
+	 'polls:poll' => 'اقتراع', 
+	 'polls:title' => 'العنوان', 
+	 'polls:option:title' => 'عنوان اختيار الاقتراع', 
+	 'polls:add:option' => 'اضافة اختيار', 
+	 'polls:options' => 'اختيارات', 
+	 'polls:publish' => 'نشر الاقتراع', 
+	 'polls:error:created' => 'لا يمكن تكوين الاقتراع', 
+	 'polls:success:created' => 'تم نشر الاختيار Poll بنجاح على الحائط الخاص بك', 
+	 'polls:vote' => 'تصويت', 
+	 'polls:success:voted' => 'تم حفظ صوت الاقتراع الخاص بك لعملية الاقتراع هذه', 
+	 'polls:failed:voted' => 'لا يمكن حفظ التصويت لعملية الاقتراع هذه', 
+	 'polls:wall:created' => 'اقتراع تم تكوينه', 
+	 'polls:failed:end' => 'لا يمكن انهاء هذا الاقتراع', 
+	 'polls:success:end' => 'تم انهاء الاقتراع', 
+	 'polls:end' => 'انهاء', 
+	 'polls:delete' => 'حذف', 
+	 'polls:embed' => 'فراش', 
+	 'polls:ended' => 'تم انهاء الاقتراع', 
+	 'ossn:notifications:comments:entity:poll_entity' => '%s تعقيب على الاحصاء الخاص بك', 
+	 'ossn:notifications:like:entity:poll_entity' => '%s يحب الاحصاء الخاص بك', 
+	 'polls:failed:delete' => 'لا يمكن حذف الاقتراع', 
+	 'polls:success:delete' => 'تم حذف الاقتراع', 
+	 'polls:time' => 'وقت التكوين', 
+	 'polls:status' => 'الحالة', 
+	 'polls:status:ended' => 'تم الانهاء', 
+	 'polls:status:opened' => 'مفتوح', 
+	 'polls:all' => 'كل الاقتراعات', 
+	 'polls:group' => 'المجموعة', 
+	 'polls:join:group' => 'يجب أن تقوم بالانضمام للمجموعة بحيث يمكنك مشاهدة الاقتراعات', 
+	 'polls:show:voters' => 'عرض الناخبين', 
+	 'polls:voters' => 'الناخبون', 
+	 'polls:show:voters:note' => 'السماح للمستخدمين بمشاهدة الناخبين', 
+	 'poll:yes' => 'نعم.', 
+	 'poll:no' => 'لا', 
+	 'polls:error:atleast2' => '! البوليس) في حاجة إلى خيارين على الأقل)', 
+	 'polls:error:duplicate:options' => 'يجب أن تكون اختيارات الاقتراع متفردة !', 
+));
