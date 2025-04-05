@@ -1,0 +1,46 @@
+<?php
+/**
+* Translated locale
+* ossn.it.php
+**/
+
+ossn_register_languages('it', array(
+	 'polls' => 'Sondaggi', 
+	 'polls:add' => 'Aggiungi sondaggio', 
+	 'polls:poll' => 'Sondaggio', 
+	 'polls:title' => 'Titolo', 
+	 'polls:option:title' => 'Titolo dell\'opzione del sondaggio', 
+	 'polls:add:option' => 'Aggiungi opzione', 
+	 'polls:options' => 'Opzioni', 
+	 'polls:publish' => 'Pubblica sondaggio', 
+	 'polls:error:created' => 'Il sondaggio non può essere creato', 
+	 'polls:success:created' => 'Il sondaggio è stato pubblicato con successo sul tuo muro', 
+	 'polls:vote' => 'Votare', 
+	 'polls:success:voted' => 'Il tuo voto è stato salvato per questo sondaggio', 
+	 'polls:failed:voted' => 'Non può salvare il voto per questo sondaggio', 
+	 'polls:wall:created' => 'Sondaggio creato', 
+	 'polls:failed:end' => 'Non può finire questo sondaggio', 
+	 'polls:success:end' => 'Il sondaggio è stato concluso', 
+	 'polls:end' => 'FINE', 
+	 'polls:delete' => 'Eliminare', 
+	 'polls:embed' => 'Incorporare', 
+	 'polls:ended' => 'Il sondaggio è stato concluso', 
+	 'ossn:notifications:comments:entity:poll_entity' => '%s ha commentato il tuo sondaggio', 
+	 'ossn:notifications:like:entity:poll_entity' => '%s è piaciuto il tuo sondaggio', 
+	 'polls:failed:delete' => 'Il sondaggio non può essere eliminato', 
+	 'polls:success:delete' => 'Il sondaggio è stato eliminato', 
+	 'polls:time' => 'Tempo creato', 
+	 'polls:status' => 'Stato', 
+	 'polls:status:ended' => 'Concluso', 
+	 'polls:status:opened' => 'Aperto', 
+	 'polls:all' => 'Tutti i sondaggi', 
+	 'polls:group' => 'Gruppo', 
+	 'polls:join:group' => 'È necessario unire il gruppo per visualizzare i sondaggi', 
+	 'polls:show:voters' => 'Mostrare elettori', 
+	 'polls:voters' => 'Elettori', 
+	 'polls:show:voters:note' => 'Consenti agli utenti di vedere gli elettori', 
+	 'poll:yes' => 'SÌ', 
+	 'poll:no' => 'NO', 
+	 'polls:error:atleast2' => 'Il sondaggio ha bisogno di almeno 2 opzioni!', 
+	 'polls:error:duplicate:options' => 'Le opzioni del sondaggio devono essere uniche!', 
+));
