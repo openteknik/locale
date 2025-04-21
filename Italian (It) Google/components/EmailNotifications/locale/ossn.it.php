@@ -8,12 +8,12 @@ ossn_register_languages('it', array(
 	 'mail:notfication:subject' => 'Hai una nuova notifica!', 
 	 'email:notfication:main:body' => 'Ciao %s, 
 
-[%S]
+%s
 
-[%S]
+%s
 
-[%S]
-[%S]', 
+%s
+%s', 
 	 'emailnotifications' => 'Notifiche e -mail', 
 	 'notification:type:comments:entity:file:profile:photo' => 'Commento fotografico del profilo', 
 	 'notification:type:like:post:group:wall' => 'Group Wall Post come', 

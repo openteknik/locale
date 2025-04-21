@@ -12,28 +12,28 @@ ossn_register_languages('it', array(
 Hai ricevuto una richiesta di videochiamata e la %s sta aspettando che tu si unisca a una chiamata. Per unire la chiamata fai clic sull\'URL seguente oppure puoi copiare il collegamento nella barra degli indirizzi del browser.
 
 
-[%S]
+%s
 
 L\'URL è valido solo per le prossime ore al momento della ricezione di questa e -mail.
 Ignora questa e -mail se hai già fatto la videochiamata.
 
 Grazie
-[%S]
-[%S]', 
+%s
+%s', 
 	 'vidconverse:owner:subject' => 'Hai inviato una richiesta di videochiamata a %s', 
 	 'vidconverse:owner:message' => 'Caro %s,
 
 Hai inviato la richiesta di videochiamata a %s. Per unire la chiamata, fai clic sull\'URL seguente o copia incolla nella barra degli indirizzi del browser. Si prega di non condividere questo URL a nessun altro.
 
 
-[%S]
+%s
 
 L\'URL è valido solo per te per le prossime ore di questa e -mail.
 Ignora questa e -mail se hai già fatto la videochiamata.
 
 Grazie
-[%S]
-[%S]', 
+%s
+%s', 
 	 'vidconverse:call:initiated' => 'Richiesta di videochiamata inizializzata.', 
 	 'vidconverse:user:notified' => '%s è stato avvisato sulla videochiamata', 
 	 'vidconverse:you:notified' => 'La ricevuta è stata inviata alla tua e -mail.', 

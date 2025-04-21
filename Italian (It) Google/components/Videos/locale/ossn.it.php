@@ -25,7 +25,7 @@ ossn_register_languages('it', array(
 	 'video:com:wall:added' => 'Ha creato un nuovo video %s', 
 	 'video:com:all' => 'Tutti i video del sito', 
 	 'video:com:mine' => 'I miei video', 
-	 'video:com:users:videos' => 'I video di [%S]', 
+	 'video:com:users:videos' => 'I video di %s', 
 	 'video:com:ffmpeg:path' => 'Percorso dello strumento FFMPEG', 
 	 'video:com:ffmpeg:path:note' => 'Se sei su Linux Server, gli strumenti FFMPEG di solito risiedono nella directory/bin/bin. Inserisci semplicemente la directory in cui esiste il binario FFMPEG.', 
 	 'video:ffmpeg:input:empty' => 'Si prega di compilare tutti i campi', 

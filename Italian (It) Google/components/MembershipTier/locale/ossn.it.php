@@ -102,8 +102,8 @@ Congratulazioni! La tua iscrizione è stata rinnovata con successo! Siamo lieti 
 Apprezziamo sinceramente la tua continua fiducia e lealtà come membro. La tua decisione di rinnovare la tua iscrizione riflette la tua fiducia nei nostri servizi e ci impegniamo a superare le tue aspettative. In caso di domande, feedback o suggerimenti, non esitare a contattarci. Siamo qui per aiutarti e garantire che la tua esperienza di iscrizione rimanga eccezionale.
 
 Grazie per aver fatto parte della nostra comunità e non vediamo l\'ora di servirti durante questo rinnovato periodo di abbonamento!
-[%S]
-[%S]', 
+%s
+%s', 
 	 'membershiptier:failed:charge:cron' => 'Il rinnovo dei membri non è fallito!', 
 	 'membershiptier:failed:charge:cron:msg' => 'Caro %s,
 
@@ -116,8 +116,8 @@ Se il problema persiste o hai bisogno di assistenza aggiuntiva, si prega di cont
 Ci scusiamo per qualsiasi frustrazione o inconveniente che ciò potrebbe aver causato. Apprezziamo la tua pazienza e comprensione mentre lavoriamo per risolvere il problema e garantire un processo di rinnovo regolare per te. Grazie per il tuo continuo supporto e ci impegniamo ad aiutarti a risolvere la questione con la tua soddisfazione.
 
 Grazie!
-[%S]
-[%S]', 
+%s
+%s', 
 	 'membershiptier:current:date' => 'Data e ora del sistema', 
 	 'membershiptier:expiry:never' => 'Mai', 
 	 'membershiptier:delete:text' => 'Quando elimini il livello, tutti gli utenti che appartengono a quel livello saranno contrassegnati come non pagati e la loro iscrizione verrà revocata. Ti richiederanno di iscriverti di nuovo a un livello valido.', 
