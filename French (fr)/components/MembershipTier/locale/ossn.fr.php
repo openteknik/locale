@@ -9,21 +9,21 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 ossn_register_languages('fr', array(
-	'membershiptier'                                => 'Niveau d’adhésion',
+	'membershiptier'                                => 'Niveau dâ€™adhÃ©sion',
 	'membershiptier:gadgets:available'             => 'Modules disponibles',
 	'membershiptier:disallowed'                    => 'Actions interdites',
-	'membershiptier:subtext'                       => 'Un membre avec ce niveau peut effectuer uniquement les actions autorisées. Veuillez donc configurer en conséquence.',
-	'membershiptier:settings'                      => 'Gestion des niveaux d’adhésion',
+	'membershiptier:subtext'                       => 'Un membre avec ce niveau peut effectuer uniquement les actions autorisÃ©es. Veuillez donc configurer en consÃ©quence.',
+	'membershiptier:settings'                      => 'Gestion des niveaux dâ€™adhÃ©sion',
 
 	'membershiptier:gadget:action:group:add'       => 'Action | Ajouter un groupe',
 	'membershiptier:gadget:action:post:comment'    => 'Action | Commenter',
-	'membershiptier:gadget:action:post:like'       => 'Action | Réactions',
+	'membershiptier:gadget:action:post:like'       => 'Action | RÃ©actions',
 	'membershiptier:gadget:action:message:send'    => 'Action | Envoyer un message',
 	'membershiptier:gadget:action:friend:add'      => 'Action | Ajouter un ami',
-	'membershiptier:gadget:action:forum:topic:add' => 'Action | Créer un sujet de forum',
-	'membershiptier:gadget:action:forum:reply:add' => 'Action | Répondre à un sujet de forum',
-	'membershiptier:gadget:action:wall:post:a'     => 'Action | Publication sur le fil d’actualité',
-	'membershiptier:gadget:action:wall:post:u'     => 'Action | Publication sur le mur de l’utilisateur',
+	'membershiptier:gadget:action:forum:topic:add' => 'Action | CrÃ©er un sujet de forum',
+	'membershiptier:gadget:action:forum:reply:add' => 'Action | RÃ©pondre Ã  un sujet de forum',
+	'membershiptier:gadget:action:wall:post:a'     => 'Action | Publication sur le fil dâ€™actualitÃ©',
+	'membershiptier:gadget:action:wall:post:u'     => 'Action | Publication sur le mur de lâ€™utilisateur',
 	'membershiptier:gadget:action:wall:post:g'     => 'Action | Publication sur le mur du groupe',
 	'membershiptier:gadget:page:invite'            => 'Page | Inviter',
 	'membershiptier:gadget:page:group:guid'        => 'Page | Voir le groupe',
@@ -32,113 +32,113 @@ ossn_register_languages('fr', array(
 	'membershiptier:gadget:page:messages:all'      => 'Page | Messages',
 	'membershiptier:gadget:page:u:username:photos' => 'Page | Photos',
 	'membershiptier:gadget:page:search'            => 'Page | Recherche',
-	'membershiptier:gadget:page:page:all'          => 'Page | Liste des pages d’entreprise',
-	'membershiptier:gadget:page:page:view:guid'    => 'Page | Voir la page d’entreprise',
+	'membershiptier:gadget:page:page:all'          => 'Page | Liste des pages dâ€™entreprise',
+	'membershiptier:gadget:page:page:view:guid'    => 'Page | Voir la page dâ€™entreprise',
 	'membershiptier:gadget:page:u:username'        => 'Page | Voir le profil utilisateur',
-	'membershiptier:gadget:page:profileviews'      => 'Page | Qui a consulté le profil',
-	'membershiptier:gadget:page:video:add'         => 'Page | Ajouter une vidéo',
-	'membershiptier:gadget:page:video:all'         => 'Page | Liste des vidéos',
-	'membershiptier:gadget:page:event:add'         => 'Page | Ajouter un événement',
+	'membershiptier:gadget:page:profileviews'      => 'Page | Qui a consultÃ© le profil',
+	'membershiptier:gadget:page:video:add'         => 'Page | Ajouter une vidÃ©o',
+	'membershiptier:gadget:page:video:all'         => 'Page | Liste des vidÃ©os',
+	'membershiptier:gadget:page:event:add'         => 'Page | Ajouter un Ã©vÃ©nement',
 	'membershiptier:gadget:page:poll:add'          => 'Page | Ajouter un sondage',
 	'membershiptier:gadget:page:poll:all'          => 'Page | Liste des sondages',
 	'membershiptier:gadget:page:files:add'         => 'Page | Ajouter un fichier',
 	'membershiptier:gadget:page:files:all'         => 'Page | Liste des fichiers',
-	'membershiptier:gadget:page:marketplace:add'   => 'Page | Ajouter un produit au marché',
-	'membershiptier:gadget:page:marketplace:list'  => 'Page | Liste du marché',
+	'membershiptier:gadget:page:marketplace:add'   => 'Page | Ajouter un produit au marchÃ©',
+	'membershiptier:gadget:page:marketplace:list'  => 'Page | Liste du marchÃ©',
 	'membershiptier:gadget:page:mp3:add'           => 'Page | Ajouter un audio',
 	'membershiptier:gadget:page:mp3:all'           => 'Page | Liste des audios',
 	'membershiptier:gadget:page:mp3:all:guid'      => 'Page | Liste des audios utilisateur',
 	'membershiptier:gadget:page:whoisonline'       => 'Page | Qui est en ligne',
 
 	'membershiptier:title'                         => 'Nom/Titre du niveau',
-	'membershiptier:cost'                          => 'Coût du niveau',
-	'membershiptier:text'                          => 'Vous pouvez choisir les actions autorisées pour chaque niveau à l’étape suivante.',
-	'membershiptier:duration'                      => 'Durée',
+	'membershiptier:cost'                          => 'CoÃ»t du niveau',
+	'membershiptier:text'                          => 'Vous pouvez choisir les actions autorisÃ©es pour chaque niveau Ã  lâ€™Ã©tape suivante.',
+	'membershiptier:duration'                      => 'DurÃ©e',
 	'membershiptier:duration:monthly'              => 'Mensuel',
 	'membershiptier:duration:onetime'             => 'Unique',
 	'membershiptier:brief:desc'                    => 'Description',
-	'membershiptier:tieradd:failed'                => 'Ajout du niveau échoué. Veuillez remplir tous les champs.',
-	'membershiptier:manageaccess'                  => 'Gérer les niveaux d’accès',
+	'membershiptier:tieradd:failed'                => 'Ajout du niveau Ã©chouÃ©. Veuillez remplir tous les champs.',
+	'membershiptier:manageaccess'                  => 'GÃ©rer les niveaux dâ€™accÃ¨s',
 	'membershiptier:edit'                          => 'Modifier le niveau',
 	'membershiptier:delete'                        => 'Supprimer',
-	'membershiptier:unabletoedit'                  => 'Impossible de modifier le niveau, veuillez réessayer !',
-	'membershiptier:edited'                        => 'Le niveau a été modifié',
+	'membershiptier:unabletoedit'                  => 'Impossible de modifier le niveau, veuillez rÃ©essayer !',
+	'membershiptier:edited'                        => 'Le niveau a Ã©tÃ© modifiÃ©',
 
 	'membershiptier:list'                          => 'Liste des niveaux',
 	'membershiptier:logs'                          => 'Journal des paiements',
 	'membershiptier:add'                           => 'Ajouter un niveau',
 	'membershiptier:members:count'                => 'Membres utilisant',
 	'membershiptier:configure'                     => 'Configurer',
-	'membershiptier:cron:text'                     => 'Vous devez configurer des tâches CRON pour que votre niveau d’adhésion fonctionne.',
+	'membershiptier:cron:text'                     => 'Vous devez configurer des tÃ¢ches CRON pour que votre niveau dâ€™adhÃ©sion fonctionne.',
 
 	'membershiptier:type:page'                     => 'Page',
 	'membershiptier:type:action'                   => 'Action',
-	'membershiptier:deleted'                       => 'Le niveau a été supprimé !',
-	'membershiptier:delete:failed'                 => 'Échec de la suppression du niveau',
+	'membershiptier:deleted'                       => 'Le niveau a Ã©tÃ© supprimÃ© !',
+	'membershiptier:delete:failed'                 => 'Ã‰chec de la suppression du niveau',
 
-	'membershiptier:pricing'                       => 'Tarification des adhésions',
-	'membershiptier:subcribe'                      => 'S’abonner',
-	'tier:subscribed:done'                         => 'Vous vous êtes abonné avec succès !',
-	'tier:subscribe:failed'                        => 'Une erreur est survenue, veuillez réessayer plus tard ou contacter l’administrateur !',
-	'membershiptier:pricing:heading'               => 'Pour garantir une expérience fluide et ininterrompue, nous vous demandons de maintenir des fonds suffisants dans votre portefeuille avant de vous abonner à nos services. Lorsque disponible, vous pouvez également ajouter une carte de paiement pour des transactions automatiques sans interruption. Notez que si une carte est enregistrée, les frais d’adhésion peuvent être débités automatiquement pour éviter toute interruption du service.',
+	'membershiptier:pricing'                       => 'Tarification des adhÃ©sions',
+	'membershiptier:subcribe'                      => 'Sâ€™abonner',
+	'tier:subscribed:done'                         => 'Vous vous Ãªtes abonnÃ© avec succÃ¨s !',
+	'tier:subscribe:failed'                        => 'Une erreur est survenue, veuillez rÃ©essayer plus tard ou contacter lâ€™administrateur !',
+	'membershiptier:pricing:heading'               => 'Pour garantir une expÃ©rience fluide et ininterrompue, nous vous demandons de maintenir des fonds suffisants dans votre portefeuille avant de vous abonner Ã  nos services. Lorsque disponible, vous pouvez Ã©galement ajouter une carte de paiement pour des transactions automatiques sans interruption. Notez que si une carte est enregistrÃ©e, les frais dâ€™adhÃ©sion peuvent Ãªtre dÃ©bitÃ©s automatiquement pour Ã©viter toute interruption du service.',
 
 	'membershiptier:add:funds'                     => 'Ajouter des fonds',
-	'membershiptier:status'                        => 'Détails de l’adhésion',
-	'membership:terminate:warning'                 => 'Cette action est irréversible. Êtes-vous sûr de vouloir annuler ?',
-	'membership:status'                            => 'Statut de l’adhésion',
-	'membership:status:subtext'                    => 'Bienvenue sur votre page de détails d’adhésion. Ici, vous trouverez toutes les informations pertinentes concernant votre adhésion chez nous, afin de rester informé sur votre statut.',
+	'membershiptier:status'                        => 'DÃ©tails de lâ€™adhÃ©sion',
+	'membership:terminate:warning'                 => 'Cette action est irrÃ©versible. ÃŠtes-vous sÃ»r de vouloir annuler ?',
+	'membership:status'                            => 'Statut de lâ€™adhÃ©sion',
+	'membership:status:subtext'                    => 'Bienvenue sur votre page de dÃ©tails dâ€™adhÃ©sion. Ici, vous trouverez toutes les informations pertinentes concernant votre adhÃ©sion chez nous, afin de rester informÃ© sur votre statut.',
 
 	'membership:status:plan'                       => 'Nom du plan',
-	'membershiptier:duedate'                       => 'Date d’échéance',
-	'membershiptier:canceltext'                    => 'Nous comprenons que les circonstances peuvent changer et que vous puissiez vouloir annuler votre adhésion. L’annulation est simple et ne vous sera pas facturée ; l’accès aux fonctionnalités payantes sera résilié.',
+	'membershiptier:duedate'                       => 'Date dâ€™Ã©chÃ©ance',
+	'membershiptier:canceltext'                    => 'Nous comprenons que les circonstances peuvent changer et que vous puissiez vouloir annuler votre adhÃ©sion. Lâ€™annulation est simple et ne vous sera pas facturÃ©e ; lâ€™accÃ¨s aux fonctionnalitÃ©s payantes sera rÃ©siliÃ©.',
 
-	'membershiptier:cancel:now'                    => 'Annuler l’abonnement maintenant',
-	'membershiptier:nostatus'                      => '<p>Nous sommes désolés, mais il semble que vous n’ayez aucun abonnement actif associé à votre compte pour le moment.</p>
+	'membershiptier:cancel:now'                    => 'Annuler lâ€™abonnement maintenant',
+	'membershiptier:nostatus'                      => '<p>Nous sommes dÃ©solÃ©s, mais il semble que vous nâ€™ayez aucun abonnement actif associÃ© Ã  votre compte pour le moment.</p>
 
-<p><strong>Abonnement expiré :</strong> Votre précédent abonnement a peut-être expiré et n’a pas été renouvelé. Dans ce cas, vous devez le renouveler pour continuer à profiter de nos services.</p>
+<p><strong>Abonnement expirÃ© :</strong> Votre prÃ©cÃ©dent abonnement a peut-Ãªtre expirÃ© et nâ€™a pas Ã©tÃ© renouvelÃ©. Dans ce cas, vous devez le renouveler pour continuer Ã  profiter de nos services.</p>
 
-<p><strong>Abonnement annulé :</strong> Si vous aviez un abonnement actif mais l’avez annulé, les détails n’apparaîtront plus sur cette page. Vous pouvez toutefois vous réabonner.</p>
+<p><strong>Abonnement annulÃ© :</strong> Si vous aviez un abonnement actif mais lâ€™avez annulÃ©, les dÃ©tails nâ€™apparaÃ®tront plus sur cette page. Vous pouvez toutefois vous rÃ©abonner.</p>
 
-<p><strong>Nouveau compte ou aucun historique :</strong> Si vous êtes un nouvel utilisateur ou avez récemment créé un compte, vous n’avez peut-être pas encore souscrit à un plan d’adhésion.</p>
+<p><strong>Nouveau compte ou aucun historique :</strong> Si vous Ãªtes un nouvel utilisateur ou avez rÃ©cemment crÃ©Ã© un compte, vous nâ€™avez peut-Ãªtre pas encore souscrit Ã  un plan dâ€™adhÃ©sion.</p>
 
-<p>Pour toute question ou problème, contactez notre support client.</p>',
+<p>Pour toute question ou problÃ¨me, contactez notre support client.</p>',
 
 	'membershiptier:plans'                          => 'Voir les plans',
 	'membershiptier:needs:sub'                      => 'Vous devez vous abonner au plan avant de voir cette page !',
-	'membershiptier:success:charge:cron'            => 'Adhésion renouvelée avec succès !',
+	'membershiptier:success:charge:cron'            => 'AdhÃ©sion renouvelÃ©e avec succÃ¨s !',
 	'membershiptier:success:charge:cron:msg'        => "Cher %s,
 
-Félicitations ! Votre adhésion a été renouvelée avec succès ! Nous sommes ravis de vous compter parmi nos membres. Vous pouvez continuer à profiter de tous les avantages de votre adhésion sans interruption.
+FÃ©licitations ! Votre adhÃ©sion a Ã©tÃ© renouvelÃ©e avec succÃ¨s ! Nous sommes ravis de vous compter parmi nos membres. Vous pouvez continuer Ã  profiter de tous les avantages de votre adhÃ©sion sans interruption.
 
-Merci de votre confiance et fidélité.
+Merci de votre confiance et fidÃ©litÃ©.
 %s
 %s",
 
-	'membershiptier:failed:charge:cron'             => 'Renouvellement de l’adhésion échoué !',
+	'membershiptier:failed:charge:cron'             => 'Renouvellement de lâ€™adhÃ©sion Ã©chouÃ© !',
 	'membershiptier:failed:charge:cron:msg'         => "Cher %s,
 
-Nous regrettons de vous informer que le renouvellement de votre adhésion a échoué. Vérifiez vos informations de paiement et assurez-vous que votre portefeuille contient des fonds suffisants. Pour toute assistance, contactez le support client.
+Nous regrettons de vous informer que le renouvellement de votre adhÃ©sion a Ã©chouÃ©. VÃ©rifiez vos informations de paiement et assurez-vous que votre portefeuille contient des fonds suffisants. Pour toute assistance, contactez le support client.
 
 Merci !",
-	'membershiptier:current:date'                   => 'Date et heure du système',
+	'membershiptier:current:date'                   => 'Date et heure du systÃ¨me',
 	'membershiptier:expiry:never'                  => 'Jamais',
-	'membershiptier:delete:text'                   => 'La suppression du niveau révoque l’adhésion de tous les membres de ce niveau.',
+	'membershiptier:delete:text'                   => 'La suppression du niveau rÃ©voque lâ€™adhÃ©sion de tous les membres de ce niveau.',
 	'membershiptier:members:export'                => 'Exporter les membres',
-	'membershiptier:subscribed'                     => 'Abonné',
+	'membershiptier:subscribed'                     => 'AbonnÃ©',
 	'membershiptier:force:cards'                   => 'Forcer les paiements automatiques',
-	'membershiptier:force:cards:p'                 => "Si activé, les utilisateurs doivent enregistrer une carte lors de l'abonnement pour activer les paiements automatiques. Sinon, ils peuvent enregistrer une carte plus tard ou ajouter des fonds manuellement.",
-	'membershiptier:force:disabled'                => 'Désactivé',
-	'membershiptier:force:enabled'                 => 'Activé',
+	'membershiptier:force:cards:p'                 => "Si activÃ©, les utilisateurs doivent enregistrer une carte lors de l'abonnement pour activer les paiements automatiques. Sinon, ils peuvent enregistrer une carte plus tard ou ajouter des fonds manuellement.",
+	'membershiptier:force:disabled'                => 'DÃ©sactivÃ©',
+	'membershiptier:force:enabled'                 => 'ActivÃ©',
 	'membershiptier:addusertotier'                 => 'Ajouter un utilisateur au niveau',
-	'membershiptier:attachuser:note'               => 'Vous pouvez attribuer manuellement un utilisateur à un niveau spécifique après avoir ajouté des fonds à son portefeuille.',
+	'membershiptier:attachuser:note'               => 'Vous pouvez attribuer manuellement un utilisateur Ã  un niveau spÃ©cifique aprÃ¨s avoir ajoutÃ© des fonds Ã  son portefeuille.',
 	'membershiptier:searchuser'                    => 'Rechercher un utilisateur (email)',
 	'membershiptier:searchuser:next'               => 'Suivant',
-	'membershiptier:searchuser:invalid'            => "Aucun utilisateur trouvé !",
-	'membershiptier:searchuser:noadmin'            => "Vous ne pouvez pas ajouter d'administrateurs à un niveau !",
-	'membershiptier:searchuser:already'            => "Cet utilisateur possède déjà un niveau actif.",
+	'membershiptier:searchuser:invalid'            => "Aucun utilisateur trouvÃ© !",
+	'membershiptier:searchuser:noadmin'            => "Vous ne pouvez pas ajouter d'administrateurs Ã  un niveau !",
+	'membershiptier:searchuser:already'            => "Cet utilisateur possÃ¨de dÃ©jÃ  un niveau actif.",
 	'tier:manualattach:failed'                     => "Impossible d'ajouter l'utilisateur au niveau !",
 	'membershiptier:users:list'                    => 'Utilisateurs',
-	'tier:manualattach:done'                       => 'Utilisateur ajouté au niveau !',
+	'tier:manualattach:done'                       => 'Utilisateur ajoutÃ© au niveau !',
 	'membershiptier:date:format'                   => 'Format de date',
 	'membershiptier:duration:yearly'               => 'Annuel',
 ));
