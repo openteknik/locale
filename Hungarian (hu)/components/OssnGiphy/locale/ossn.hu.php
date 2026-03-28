@@ -10,6 +10,6 @@
  */
 $hu = array(
 		'ossngiphy' => 'Giphy',
-		'ossngiphy:powered' => 'Ãœzemelteto: GIPHY'		
+		'ossngiphy:powered' => 'Üzemelteto: GIPHY'		
 );
 ossn_register_languages('hu', $hu);

@@ -9,22 +9,22 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-    'user:messages' => 'Ăzenetek',
-    'inbox' => 'BejĂśvĹ',
-    'send' => 'ElkĂźldĂśm',
-    'ossn:message:between' => 'Ăzenetek %s',
-    'messages' => 'Ăzenetek',
-    'message:placeholder' => 'Ărd ide a szĂśveget',
-    'no:messages' => 'Nincs Ăźzeneted.',
-	'ossnmessages:deleted' => 'Az Ăźzenet tĂśrĂślve lett',
+    'user:messages' => 'Üzenetek',
+    'inbox' => 'Bejövő',
+    'send' => 'Elküldöm',
+    'ossn:message:between' => 'Üzenetek %s',
+    'messages' => 'Üzenetek',
+    'message:placeholder' => 'Írd ide a szöveget',
+    'no:messages' => 'Nincs üzeneted.',
+	'ossnmessages:deleted' => 'Az üzenet törölve lett',
 	
-	'ossnmessages:delete:all' => 'EltĂĄvolĂ­tĂĄs mindenki szĂĄmĂĄra',
-	'ossnmessages:delete:all:note' => "VĂŠgleg eltĂĄvolĂ­tja ezt az Ăźzenetet a tĂśbbi tag szĂĄmĂĄra. A tĂśbbi tag lĂĄthatja, hogy eltĂĄvolĂ­tott egy Ăźzenetet.",
+	'ossnmessages:delete:all' => 'Eltávolítás mindenki számára',
+	'ossnmessages:delete:all:note' => "Végleg eltávolítja ezt az üzenetet a többi tag számára. A többi tag láthatja, hogy eltávolított egy üzenetet.",
 	
-	'ossnmessages:delete:me' => 'TĂĄvolĂ­tsa el az Ăn szĂĄmĂĄra',
-	'ossnmessages:delete:me:note' => 'Ezt az Ăźzenetet eltĂĄvolĂ­tjuk Ănnek. A tĂśbbi tag tovĂĄbbra is lĂĄthatja.',
+	'ossnmessages:delete:me' => 'Távolítsa el az Ön számára',
+	'ossnmessages:delete:me:note' => 'Ezt az üzenetet eltávolítjuk Önnek. A többi tag továbbra is láthatja.',
 	'ossnmessages:replied:you' => 'Te: %s',
 	
-	'message:fileattachment' => 'Csatolt fĂĄjl',
+	'message:fileattachment' => 'Csatolt fájl',
 );
 ossn_register_languages('hu', $hu); 

@@ -9,19 +9,19 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-	'com:ossn:invite' => 'MeghĂ­vĂĄs',			
-	'com:ossn:invite:friends' => 'BarĂĄt meghĂ­vĂĄsa',
-	'com:ossn:invite:friends:note' => 'A barĂĄt meghĂ­vĂĄsĂĄhoz Ă­rd be az e-mail cĂ­mĂŠt (tĂśbbet is megadhatsz), Ă­rj egy rĂśvid Ăźzenetet.',
-	'com:ossn:invite:emails:note' => 'Email cĂ­mek (vesszĹvel elvĂĄlasztva)',
+	'com:ossn:invite' => 'Meghívás',			
+	'com:ossn:invite:friends' => 'Barát meghívása',
+	'com:ossn:invite:friends:note' => 'A barát meghívásához írd be az e-mail címét (többet is megadhatsz), írj egy rövid üzenetet.',
+	'com:ossn:invite:emails:note' => 'Email címek (vesszővel elválasztva)',
 	'com:ossn:invite:emails:placeholder' => 'smith@example.com, john@example.com',
-	'com:ossn:invite:message' => 'Ăzenet',
+	'com:ossn:invite:message' => 'Üzenet',
 		
-    	'com:ossn:invite:mail:subject' => 'MeghĂ­vĂĄs a %s kĂśzĂśssĂŠgĂŠbe',	
-    	'com:ossn:invite:mail:message' => 'MeghĂ­vĂłt kaptĂĄl hogy rĂŠszt vegyĂŠl a %s kĂśzĂśssĂŠgbe, kĂźldte %s. Ezt az Ăźzenetet kaptad:
+    	'com:ossn:invite:mail:subject' => 'Meghívás a %s közösségébe',	
+    	'com:ossn:invite:mail:message' => 'Meghívót kaptál hogy részt vegyél a %s közösségbe, küldte %s. Ezt az üzenetet kaptad:
 
 %s
 
-Hogy regisztrĂĄlj, kattints az alĂĄbbi linkre:
+Hogy regisztrálj, kattints az alábbi linkre:
 
 %s
 
@@ -29,16 +29,16 @@ Profil: %s
 ',	
 	'com:ossn:invite:mail:message:default' => 'Szia,
 
-SzeretnĂŠm ha csatlakoznĂĄl hozzĂĄnk: %s.
+Szeretném ha csatlakoznál hozzánk: %s.
 
 Profil : %s
 
-Ădv.
+Üdv.
 %s',
-	'com:ossn:invite:sent' => 'A barĂĄtaid meghĂ­vva. MeghĂ­vĂł kĂźldve: %s.',
-	'com:ossn:invite:wrong:emails' => 'A kĂśvetkezĹ e-mail cĂ­mek ĂŠrvĂŠnytelenek: %s.',
-	'com:ossn:invite:sent:failed' => 'Nem kĂźldhetĹ meghĂ­vĂł ezekre a cĂ­mekre: %s.',
-	'com:ossn:invite:already:members' => 'A kĂśvetkezĹ e-mail cĂ­mek mĂĄr regisztrĂĄltak: %s',
-	'com:ossn:invite:empty:emails' => 'KĂŠrĂźnk Ă­rj be legalĂĄbb egy e-mail cĂ­met.',
+	'com:ossn:invite:sent' => 'A barátaid meghívva. Meghívó küldve: %s.',
+	'com:ossn:invite:wrong:emails' => 'A következő e-mail címek érvénytelenek: %s.',
+	'com:ossn:invite:sent:failed' => 'Nem küldhető meghívó ezekre a címekre: %s.',
+	'com:ossn:invite:already:members' => 'A következő e-mail címek már regisztráltak: %s',
+	'com:ossn:invite:empty:emails' => 'Kérünk írj be legalább egy e-mail címet.',
 );
 ossn_register_languages('hu', $hu);
