@@ -9,13 +9,13 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'siteoffline' => 'Weboldal lekapcsol·sa',
+	'siteoffline' => 'Weboldal lekapcsol√°sa',
 	'siteoffline:online' => 'Online',
 	'siteoffline:offline' => 'Offline',
-	'siteoffline:save:error' => 'A be·llÌt·sok mentÈse sikertelen',
-	'siteoffline:saved' => 'A be·llÌt·sok elmentve',
-	'siteoffline:login' => 'Oldalkezeloi bejelentkezÈs',
-	'siteoffline:login:error' => 'Csak adminisztr·tori bejelentkezÈs engedÈlyezett',
-	'siteoffline:message' => 'Sajn·ljuk, az oldal ideiglenesen karbantart·s miatt nem elÈrheto. KÈrj¸k, l·togasson vissza kÈsobb.',
+	'siteoffline:save:error' => 'A be√°ll√≠t√°sok ment√©se sikertelen',
+	'siteoffline:saved' => 'A be√°ll√≠t√°sok elmentve',
+	'siteoffline:login' => 'Oldalkezeloi bejelentkez√©s',
+	'siteoffline:login:error' => 'Csak adminisztr√°tori bejelentkez√©s enged√©lyezett',
+	'siteoffline:message' => 'Sajn√°ljuk, az oldal ideiglenesen karbantart√°s miatt nem el√©rheto. K√©rj√ºk, l√°togasson vissza k√©sobb.',
 );
 ossn_register_languages('hu', $hu);

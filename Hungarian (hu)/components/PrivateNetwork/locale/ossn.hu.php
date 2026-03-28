@@ -9,5 +9,5 @@
  * @link       https://www.opensource-socialnetwork.org/
  */
 ossn_register_languages('hu', array(
-	'com:private:network:deney' => 'Az oldal megtekintéséhez be kell jelentkezned',
+	'com:private:network:deney' => 'Az oldal megtekintÃ©sÃ©hez be kell jelentkezned',
 ));

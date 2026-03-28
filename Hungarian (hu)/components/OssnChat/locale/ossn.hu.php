@@ -9,6 +9,6 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-	'ossn:chat:no:friend:online' => 'Nincs barát online',
+	'ossn:chat:no:friend:online' => 'Nincs barĂĄt online',
 );
 ossn_register_languages('hu', $hu);

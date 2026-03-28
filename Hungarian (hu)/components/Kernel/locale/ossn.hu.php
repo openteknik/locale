@@ -9,6 +9,6 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'kernel' => 'Prémium verzió',
+	'kernel' => 'PrÃ©mium verziÃ³',
 );
 ossn_register_languages('hu', $hu);

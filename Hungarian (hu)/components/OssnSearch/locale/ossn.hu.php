@@ -10,10 +10,10 @@
  */
 
 $hu = array(
-	'ossn:search' => 'Keresés',
-	'result:type' => 'Keresés eredménye',
-	'search:result' => 'Keresés eredménye: %s',
-	'ossn:search:topbar:search' => 'Csoport, barátok keresése',
-	'ossn:search:no:result' => 'Nincs találat!',
+	'ossn:search' => 'KeresĂŠs',
+	'result:type' => 'KeresĂŠs eredmĂŠnye',
+	'search:result' => 'KeresĂŠs eredmĂŠnye: %s',
+	'ossn:search:topbar:search' => 'Csoport, barĂĄtok keresĂŠse',
+	'ossn:search:no:result' => 'Nincs talĂĄlat!',
 );
 ossn_register_languages('hu', $hu);

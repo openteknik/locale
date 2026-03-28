@@ -9,10 +9,10 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-		'accesscode' => 'Hozz·fÈrÈsi kÛd',
-		'accesscode:saved' => 'A hozz·fÈrÈsi kÛd mentve.',
-		'accesscode:save:error' => 'A hozz·fÈrÈsi kÛd mentÈse sikertelen',
-		'accesscode:register:code' => 'Hozz·fÈrÈsi kÛd / Regisztr·ciÛs kÛd',
-		'access:code:error' => '…rvÈnytelen hozz·fÈrÈsi kÛd',
+		'accesscode' => 'Hozz√°f√©r√©si k√≥d',
+		'accesscode:saved' => 'A hozz√°f√©r√©si k√≥d mentve.',
+		'accesscode:save:error' => 'A hozz√°f√©r√©si k√≥d ment√©se sikertelen',
+		'accesscode:register:code' => 'Hozz√°f√©r√©si k√≥d / Regisztr√°ci√≥s k√≥d',
+		'access:code:error' => '√ârv√©nytelen hozz√°f√©r√©si k√≥d',
 );
 ossn_register_languages('hu', $hu);

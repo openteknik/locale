@@ -9,18 +9,18 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'sentiment' => 'Érzelmi elemzés',
-	'sentiment:positive' => 'Pozitív',
-	'sentiment:negative' => 'Negatív',
+	'sentiment' => 'Ã‰rzelmi elemzÃ©s',
+	'sentiment:positive' => 'PozitÃ­v',
+	'sentiment:negative' => 'NegatÃ­v',
 	'sentiment:neutral' => 'Semleges',
-	'sentiment:whocansee' => 'Ki láthatja az elemzést?',
-	'sentiment:admin' => 'Adminisztrátorok',
+	'sentiment:whocansee' => 'Ki lÃ¡thatja az elemzÃ©st?',
+	'sentiment:admin' => 'AdminisztrÃ¡torok',
 	'sentiment:all' => 'Mindenki',
 	
-	'sentiment:save:error' => 'A beállítások mentése sikertelen',
-	'sentiment:saved' => 'A beállítások elmentve',
-	'sentiment:username' => 'API felhasználónév',
-	'sentiment:email' => 'API e-mail cím',
+	'sentiment:save:error' => 'A beÃ¡llÃ­tÃ¡sok mentÃ©se sikertelen',
+	'sentiment:saved' => 'A beÃ¡llÃ­tÃ¡sok elmentve',
+	'sentiment:username' => 'API felhasznÃ¡lÃ³nÃ©v',
+	'sentiment:email' => 'API e-mail cÃ­m',
 	'sentiment:apikey' => 'API KULCS',
 );
 ossn_register_languages('hu', $hu);

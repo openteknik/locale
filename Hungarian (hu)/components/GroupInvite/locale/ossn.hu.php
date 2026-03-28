@@ -9,10 +9,10 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'groupinvite:widget:title' => 'Ismeros meghívása',
-	'groupinvite:widget:desc' => 'Válassza ki ismeroseit vesszovel elválasztva, majd kattintson a küldés gombra.',
-	'groupinvite:invite' => 'Meghívás',
-	'groupinvite:sent' => 'A meghívó elküldve, az ismerose értesítést fog kapni a meghívásról.',
-	'ossn:notifications:groupinvite' => '<strong>%s</strong> meghívott a(z) <strong>%s</strong> csoportba',
+	'groupinvite:widget:title' => 'Ismeros meghÃ­vÃ¡sa',
+	'groupinvite:widget:desc' => 'VÃ¡lassza ki ismeroseit vesszovel elvÃ¡lasztva, majd kattintson a kÃ¼ldÃ©s gombra.',
+	'groupinvite:invite' => 'MeghÃ­vÃ¡s',
+	'groupinvite:sent' => 'A meghÃ­vÃ³ elkÃ¼ldve, az ismerose Ã©rtesÃ­tÃ©st fog kapni a meghÃ­vÃ¡srÃ³l.',
+	'ossn:notifications:groupinvite' => '<strong>%s</strong> meghÃ­vott a(z) <strong>%s</strong> csoportba',
 );
 ossn_register_languages('hu', $hu);

@@ -9,12 +9,12 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-		'gdpr:deleteaccount' => 'FiÛk tˆrlÈse',
-		'gdpr:account:deleted' => 'A fiÛkod tˆrlÈsre ker¸lt',
-		'gdpr:account:delete:error' => 'A fiÛkod tˆrlÈse nem siker¸lt',
-		'gdpr:confirm:signup' => 'MegerosÌtem, hogy elfogadom a weboldal %s Ès %s dokumentumait',
-		'gdpr:privacypolicy' => 'AdatvÈdelmi ir·nyelveit',
-		'gdpr:signup:error' => 'El kell fogadnod a weboldal Felhaszn·l·si feltÈteleit Ès AdatvÈdelmi ir·nyelveit',
-		'gdpr:delete:account:notice' => 'Figyelem! A fiÛk tˆrlÈse vÈgleges. Ez a muvelet nem vonhatÛ vissza.',
+		'gdpr:deleteaccount' => 'Fi√≥k t√∂rl√©se',
+		'gdpr:account:deleted' => 'A fi√≥kod t√∂rl√©sre ker√ºlt',
+		'gdpr:account:delete:error' => 'A fi√≥kod t√∂rl√©se nem siker√ºlt',
+		'gdpr:confirm:signup' => 'Megeros√≠tem, hogy elfogadom a weboldal %s √©s %s dokumentumait',
+		'gdpr:privacypolicy' => 'Adatv√©delmi ir√°nyelveit',
+		'gdpr:signup:error' => 'El kell fogadnod a weboldal Felhaszn√°l√°si felt√©teleit √©s Adatv√©delmi ir√°nyelveit',
+		'gdpr:delete:account:notice' => 'Figyelem! A fi√≥k t√∂rl√©se v√©gleges. Ez a muvelet nem vonhat√≥ vissza.',
 );
 ossn_register_languages('hu', $hu);

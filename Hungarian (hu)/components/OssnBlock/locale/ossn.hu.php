@@ -9,15 +9,15 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-    'user:blocked' => 'A felhasználó letiltva!',
-    'user:block:error' => 'Nem tilthatod a felhasználót! Kérünk próbáld meg később.',
-    'user:block' => 'Tiltás',
-    'user:unblock' => 'Tiltás feloldása',
-    'user:unblocked' => 'A feloldás sikeres',
-    'user:unblock:error' => 'Nem szüntetheted meg a letiltást',
+    'user:blocked' => 'A felhasznĂĄlĂł letiltva!',
+    'user:block:error' => 'Nem tilthatod a felhasznĂĄlĂłt! KĂŠrĂźnk prĂłbĂĄld meg kĂŠsĹbb.',
+    'user:block' => 'TiltĂĄs',
+    'user:unblock' => 'TiltĂĄs feloldĂĄsa',
+    'user:unblocked' => 'A feloldĂĄs sikeres',
+    'user:unblock:error' => 'Nem szĂźntetheted meg a letiltĂĄst',
     'ossn:blocked:error' => 'Letiltva',
-    'ossn:blocked:error:note' => 'Nem tekintheted meg ezt az oldalt, mert a felhasználó letiltott.',
-    'ossn:profile:edit:tab' => 'Blokkolás',
-	'ossn:profile:list:text' => 'Ez az oldal a letiltott személyek listáját tartalmazza.',
+    'ossn:blocked:error:note' => 'Nem tekintheted meg ezt az oldalt, mert a felhasznĂĄlĂł letiltott.',
+    'ossn:profile:edit:tab' => 'BlokkolĂĄs',
+	'ossn:profile:list:text' => 'Ez az oldal a letiltott szemĂŠlyek listĂĄjĂĄt tartalmazza.',
 );
 ossn_register_languages('hu', $hu); 

@@ -10,9 +10,9 @@
  */
 $hu = array(
 	'mobilelogin' => 'Mobil',
-	'mobilelogin:username' => 'Felhasználónév/Email/Mobilszám',
-	'mobilelogin:invalid:mobile' => 'Érvénytelen mobilszám',
+	'mobilelogin:username' => 'FelhasznÃ¡lÃ³nÃ©v/Email/MobilszÃ¡m',
+	'mobilelogin:invalid:mobile' => 'Ã‰rvÃ©nytelen mobilszÃ¡m',
 	'mobilelogin:num' => '+36123456789',
-	'mobilelogin:mobile:exists' => 'Ez a mobilszám már használatban van',
+	'mobilelogin:mobile:exists' => 'Ez a mobilszÃ¡m mÃ¡r hasznÃ¡latban van',
 );
 ossn_register_languages('hu', $hu);

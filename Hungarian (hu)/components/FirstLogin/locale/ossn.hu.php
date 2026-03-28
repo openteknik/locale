@@ -9,11 +9,11 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-		'firstlogin' => 'Elso bejelentkezés',
-		'first:login:url' => 'Adja meg az URL-címet',
+		'firstlogin' => 'Elso bejelentkezÃ©s',
+		'first:login:url' => 'Adja meg az URL-cÃ­met',
 		'first:login:placeholder' => 'https://weboldalam.hu/[USERNAME]',
-		'firstlogin:saved' => 'Beállítások elmentve',
-		'firstlogin:cannot:save' => 'A beállítások mentése sikertelen',
-		'first:login:info' => 'Alább láthatóak az URL-ben használható címkék: <br /> A [USERNAME] a bejelentkezett felhasználó felhasználóneve.<br /> A [GUID] a bejelentkezett felhasználó egyedi azonosítója (ID).',
+		'firstlogin:saved' => 'BeÃ¡llÃ­tÃ¡sok elmentve',
+		'firstlogin:cannot:save' => 'A beÃ¡llÃ­tÃ¡sok mentÃ©se sikertelen',
+		'first:login:info' => 'AlÃ¡bb lÃ¡thatÃ³ak az URL-ben hasznÃ¡lhatÃ³ cÃ­mkÃ©k: <br /> A [USERNAME] a bejelentkezett felhasznÃ¡lÃ³ felhasznÃ¡lÃ³neve.<br /> A [GUID] a bejelentkezett felhasznÃ¡lÃ³ egyedi azonosÃ­tÃ³ja (ID).',
 );
 ossn_register_languages('hu', $hu);

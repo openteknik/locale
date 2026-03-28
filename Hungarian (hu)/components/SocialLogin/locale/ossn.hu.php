@@ -9,40 +9,40 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'sociallogin' => 'Közösségi bejelentkezés',
-	'social:login:settings:saved' => 'A beállítások elmentve',
-	'social:login:settings:save:error' => 'A beállítások mentése sikertelen',
+	'sociallogin' => 'KÃ¶zÃ¶ssÃ©gi bejelentkezÃ©s',
+	'social:login:settings:saved' => 'A beÃ¡llÃ­tÃ¡sok elmentve',
+	'social:login:settings:save:error' => 'A beÃ¡llÃ­tÃ¡sok mentÃ©se sikertelen',
 	'social:login:app:secret' => 'APP Secret (Titkos kulcs)',
-	'social:login:app:key' => 'APP ID (Azonosító)',
-	'social:login:facebook' => 'Facebook API részletek',
+	'social:login:app:key' => 'APP ID (AzonosÃ­tÃ³)',
+	'social:login:facebook' => 'Facebook API rÃ©szletek',
 	
-	'social:login:with:facebook' => 'Bejelentkezés Facebookkal',
-	'social:login:account:create:error' => 'Sikertelen bejelentkezés, hiba történt',
+	'social:login:with:facebook' => 'BejelentkezÃ©s Facebookkal',
+	'social:login:account:create:error' => 'Sikertelen bejelentkezÃ©s, hiba tÃ¶rtÃ©nt',
 	
-	'social:login:facebook:url' => 'OAuth átirányítási URI',
-	'social:login:fill:profile' => 'Kérjük, elobb töltse ki a profilját',
+	'social:login:facebook:url' => 'OAuth Ã¡tirÃ¡nyÃ­tÃ¡si URI',
+	'social:login:fill:profile' => 'KÃ©rjÃ¼k, elobb tÃ¶ltse ki a profiljÃ¡t',
 	
 	'social:login:twitter' => 'Twitter',
 	'social:login:consumer:key' => 'Consumer API Key',
 	'social:login:constumer:secret' => 'Consumer API Secret',
-	'social:login:twitter:callback' => 'Visszahívási (Callback) URL',
-	'social:login:with:twitter' => 'Bejelentkezés Twitterrel',
+	'social:login:twitter:callback' => 'VisszahÃ­vÃ¡si (Callback) URL',
+	'social:login:with:twitter' => 'BejelentkezÃ©s Twitterrel',
 	
 	'social:login:google' => 'Google',
-	'social:login:with:google' => 'Bejelentkezés Google-fiókkal',
-	'social:login:oauth:id' => 'OAuth kliens azonosító (Client ID)',
+	'social:login:with:google' => 'BejelentkezÃ©s Google-fiÃ³kkal',
+	'social:login:oauth:id' => 'OAuth kliens azonosÃ­tÃ³ (Client ID)',
 	'social:login:oauth:secret' => 'OAuth kliens titkos kulcs (Client Secret)',
 	
 	'social:login:apple' => 'Apple',
-	'social:login:with:apple' => 'Bejelentkezés Apple-fiókkal',
+	'social:login:with:apple' => 'BejelentkezÃ©s Apple-fiÃ³kkal',
 	'social:login:apple:clientid:service' => 'Client ID (Service ID)',
 	'social:login:apple:teamid' => 'Team ID',
-	'social:login:appple:keyfileid' => 'Kulcsfájl azonosító (Key file ID)',
-	'social:login:appple:keyfile' => 'Kulcsfájl (Keyfile)',
-	'social:login:appple:keyfilefound' => 'Megtalálva!',
+	'social:login:appple:keyfileid' => 'KulcsfÃ¡jl azonosÃ­tÃ³ (Key file ID)',
+	'social:login:appple:keyfile' => 'KulcsfÃ¡jl (Keyfile)',
+	'social:login:appple:keyfilefound' => 'MegtalÃ¡lva!',
 	
 	'social:login:button' => 'Gomb',
-	'social:login:enabled' => 'Engedélyezve',
+	'social:login:enabled' => 'EngedÃ©lyezve',
 	'social:login:disabled' => 'Letiltva',
 );
 ossn_register_languages('hu', $hu);

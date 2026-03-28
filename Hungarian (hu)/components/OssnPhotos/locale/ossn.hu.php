@@ -11,30 +11,30 @@
 
 $hu = array(
     'album:name' => 'Album neve',
-    'add:album' => 'Új album',
-    'photo:select' => 'Fotó kiválasztása',
+    'add:album' => 'Ăj album',
+    'photo:select' => 'FotĂł kivĂĄlasztĂĄsa',
     'no:albums' => 'Nincsenek albumok',
-    'no:photos' => 'Nincsenek fotók',
+    'no:photos' => 'Nincsenek fotĂłk',
     'back:to:album' => 'Vissza az albumokhoz',
-    'photo:albums' => 'Fotó albumok',
+    'photo:albums' => 'FotĂł albumok',
 	
-    'photo:deleted:success' => 'A kép sikeresen törölve!',
-    'photo:delete:error' => 'Nem törölhető a fotó. Kérünk próbáld meg később',
+    'photo:deleted:success' => 'A kĂŠp sikeresen tĂśrĂślve!',
+    'photo:delete:error' => 'Nem tĂśrĂślhetĹ a fotĂł. KĂŠrĂźnk prĂłbĂĄld meg kĂŠsĹbb',
 	
-    'photos' => 'Fotók',
+    'photos' => 'FotĂłk',
     'back' => 'Vissza',
-    'add:photos' => 'Fotók hozzáadása',
-    'delete:photo' => 'Fotó törlése',
+    'add:photos' => 'FotĂłk hozzĂĄadĂĄsa',
+    'delete:photo' => 'FotĂł tĂśrlĂŠse',
 	
-    'covers' => 'Borítóképek',
-    'cover:view' => 'Borító nézet',
-    'profile:covers' => 'Borító képek',
-	'delete:album' => 'Album törlése',
+    'covers' => 'BorĂ­tĂłkĂŠpek',
+    'cover:view' => 'BorĂ­tĂł nĂŠzet',
+    'profile:covers' => 'BorĂ­tĂł kĂŠpek',
+	'delete:album' => 'Album tĂśrlĂŠse',
 	
-	'photo:album:deleted' => 'Az album sikeresen törölve',
-	'photo:album:delete:error' => 'Nem törölhető az album',
+	'photo:album:deleted' => 'Az album sikeresen tĂśrĂślve',
+	'photo:album:delete:error' => 'Nem tĂśrĂślhetĹ az album',
 	
-	'ossn:notifications:comments:object:ossn:album' => '%s megjegyzést fűzött a %s fotóalbumodhoz',
-	'ossn:notifications:like:object:ossn:album' => '%s kedvelte a fényképe(ke)t egy %s albumban',
+	'ossn:notifications:comments:object:ossn:album' => '%s megjegyzĂŠst fĹązĂśtt a %s fotĂłalbumodhoz',
+	'ossn:notifications:like:object:ossn:album' => '%s kedvelte a fĂŠnykĂŠpe(ke)t egy %s albumban',
 );
 ossn_register_languages('hu', $hu); 

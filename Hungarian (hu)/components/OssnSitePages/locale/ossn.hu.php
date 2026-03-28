@@ -10,14 +10,14 @@
  */
 ossn_register_languages('hu', array(
 		'ossnsitepages'         => 'Webhely oldalak',
-		'site:privacy'          => 'Adatvédelem',
-		'site:about'            => 'Rólunk',
-		'site:terms'            => 'Felhasználási feltételek',
+		'site:privacy'          => 'AdatvĂŠdelem',
+		'site:about'            => 'RĂłlunk',
+		'site:terms'            => 'FelhasznĂĄlĂĄsi feltĂŠtelek',
 
 		'page:saved'            => 'Oldal sikeresen mentve!',
-		'page:save:error'       => 'Nem lehet menteni az oldalt! Kérjük, próbálja meg később.',
+		'page:save:error'       => 'Nem lehet menteni az oldalt! KĂŠrjĂźk, prĂłbĂĄlja meg kĂŠsĹbb.',
 		'sitepages:page'        => 'Oldal',
-		'sitepages:edit'        => 'Szerkesztés',
-		'sitepages:delete'      => 'Törlés',
-		'sitepages:defaultlang' => 'Válassza ki a preferált nyelvet. Ha a kiválasztott nyelvhez nincs elérhető fordítás, a tartalom a visszaállított nyelven fog megjelenni.',
+		'sitepages:edit'        => 'SzerkesztĂŠs',
+		'sitepages:delete'      => 'TĂśrlĂŠs',
+		'sitepages:defaultlang' => 'VĂĄlassza ki a preferĂĄlt nyelvet. Ha a kivĂĄlasztott nyelvhez nincs elĂŠrhetĹ fordĂ­tĂĄs, a tartalom a visszaĂĄllĂ­tott nyelven fog megjelenni.',
 ));

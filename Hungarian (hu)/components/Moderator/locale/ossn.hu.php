@@ -9,13 +9,13 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'moderator' => 'KinevezÈs moder·tornak',
-	'can_moderate' => 'A felhaszn·lÛ moder·lhatja a bejegyzÈseket, hozz·szÛl·sokat, fotÛkat Ès csoportokat',
-	'delete:cover' => 'BorÌtÛkÈp tˆrlÈse',
+	'moderator' => 'Kinevez√©s moder√°tornak',
+	'can_moderate' => 'A felhaszn√°l√≥ moder√°lhatja a bejegyz√©seket, hozz√°sz√≥l√°sokat, fot√≥kat √©s csoportokat',
+	'delete:cover' => 'Bor√≠t√≥k√©p t√∂rl√©se',
 	'moderator:yes' => 'Igen',
 	'moderator:no' => 'Nem',
-	'moderate:users' => 'Felhaszn·lÛk moder·l·sa',
-	'moderator:delete:user' => 'Felhaszn·lÛ tˆrlÈse',
-	'moderator:select' => 'KÈrj¸k, v·lasszon',
+	'moderate:users' => 'Felhaszn√°l√≥k moder√°l√°sa',
+	'moderator:delete:user' => 'Felhaszn√°l√≥ t√∂rl√©se',
+	'moderator:select' => 'K√©rj√ºk, v√°lasszon',
 );
 ossn_register_languages('hu', $hu);

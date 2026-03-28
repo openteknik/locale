@@ -9,11 +9,11 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'passwordvalidation:atleast' => 'legal·bb <em>%s<em> karakter hossz˙ legyen',
-	'passwordvalidation:passwordmustbe' => 'A jelszÛnak a kˆvetkezoket kell tartalmaznia:',
+	'passwordvalidation:atleast' => 'legal√°bb <em>%s<em> karakter hossz√∫ legyen',
+	'passwordvalidation:passwordmustbe' => 'A jelsz√≥nak a k√∂vetkezoket kell tartalmaznia:',
 	'passwordvalidation:capitalletter' => 'tartalmazzon nagybetut',
 	'passwordvalidation:lowerletter' => "tartalmazzon kisbetut",
-	'passwordvalidation:number' => "tartalmazzon sz·mot",
-	'passwordvalidation:error' => 'Ez a jelszÛ nem felel meg a kˆvetelmÈnyeknek'
+	'passwordvalidation:number' => "tartalmazzon sz√°mot",
+	'passwordvalidation:error' => 'Ez a jelsz√≥ nem felel meg a k√∂vetelm√©nyeknek'
 );
 ossn_register_languages('hu', $hu);

@@ -9,9 +9,9 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-    'ossn:notifications:ossnpoke:poke' => "%s megbökött téged!",
-    'user:poked' => 'Megbökted %s!',
-    'user:poke:error' => 'Nem bökheted meg %s! Kérünk próbáld meg később.',
-    'poke' => 'Bökés',
+    'ossn:notifications:ossnpoke:poke' => "%s megbĂśkĂśtt tĂŠged!",
+    'user:poked' => 'MegbĂśkted %s!',
+    'user:poke:error' => 'Nem bĂśkheted meg %s! KĂŠrĂźnk prĂłbĂĄld meg kĂŠsĹbb.',
+    'poke' => 'BĂśkĂŠs',
 );
 ossn_register_languages('hu', $hu);

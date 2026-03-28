@@ -9,12 +9,12 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'userverified:success' => 'Sikeres hitelesÌtÈs',
-	'userverified:failed' => 'Sikertelen hitelesÌtÈs',
-	'userverified:verified' => 'HitelesÌtett profil',
-	'userverified:verify' => 'HitelesÌtÈs',
-	'userverified:unverify' => 'HitelesÌtÈs visszavon·sa',
-	'userverified:unverifiy:success' => 'HitelesÌtÈs sikeresen visszavonva',
-	'userverified:unverifiy:failed' => 'A hitelesÌtÈs visszavon·sa sikertelen',
+	'userverified:success' => 'Sikeres hiteles√≠t√©s',
+	'userverified:failed' => 'Sikertelen hiteles√≠t√©s',
+	'userverified:verified' => 'Hiteles√≠tett profil',
+	'userverified:verify' => 'Hiteles√≠t√©s',
+	'userverified:unverify' => 'Hiteles√≠t√©s visszavon√°sa',
+	'userverified:unverifiy:success' => 'Hiteles√≠t√©s sikeresen visszavonva',
+	'userverified:unverifiy:failed' => 'A hiteles√≠t√©s visszavon√°sa sikertelen',
 );
 ossn_register_languages('hu', $hu);

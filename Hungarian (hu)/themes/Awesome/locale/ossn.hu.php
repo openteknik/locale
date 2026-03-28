@@ -9,26 +9,26 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-		'admin:theme:awesome' => 'Awesome beállítások',
-		'awesometheme:settings' => 'Awesome beállítások',
-		'awesometheme:primary' => 'Kék',
-		'awesometheme:warning' => 'Narancssárga',
-		'awesometheme:info' => 'Égkék',
-		'awesometheme:success' => 'Zöld',
+		'admin:theme:awesome' => 'Awesome beÃ¡llÃ­tÃ¡sok',
+		'awesometheme:settings' => 'Awesome beÃ¡llÃ­tÃ¡sok',
+		'awesometheme:primary' => 'KÃ©k',
+		'awesometheme:warning' => 'NarancssÃ¡rga',
+		'awesometheme:info' => 'Ã‰gkÃ©k',
+		'awesometheme:success' => 'ZÃ¶ld',
 		'awesometheme:danger' => 'Piros',
 		'awesometheme:black' => 'Fekete',
-		'awesometheme:settings:saved' => 'Beállítások elmentve',
-		'awesometheme:settings:error' => 'A beállítások mentése sikertelen',
+		'awesometheme:settings:saved' => 'BeÃ¡llÃ­tÃ¡sok elmentve',
+		'awesometheme:settings:error' => 'A beÃ¡llÃ­tÃ¡sok mentÃ©se sikertelen',
 		
-		'theme:goblue:logo:site' => 'Oldal logója',
-		'theme:goblue:logo:admin' => 'Admin logó',
-		'theme:goblue:logo:large' => 'A logófájl túl nagy!',
-		'theme:goblue:logo:failed' => 'A logó feltöltése sikertelen',
-		'theme:goblue:logo:changed' => 'A logó megváltozott.',
-		'theme:goblue:browercache' => 'Amennyiben a képek nem jelennek meg, kérjük, ürítse a böngészoje gyorsítótárát.',
-		'theme:goblue:background' => 'Háttér',		
-		'logo_images:settings' => 'Beállítások',
+		'theme:goblue:logo:site' => 'Oldal logÃ³ja',
+		'theme:goblue:logo:admin' => 'Admin logÃ³',
+		'theme:goblue:logo:large' => 'A logÃ³fÃ¡jl tÃºl nagy!',
+		'theme:goblue:logo:failed' => 'A logÃ³ feltÃ¶ltÃ©se sikertelen',
+		'theme:goblue:logo:changed' => 'A logÃ³ megvÃ¡ltozott.',
+		'theme:goblue:browercache' => 'Amennyiben a kÃ©pek nem jelennek meg, kÃ©rjÃ¼k, Ã¼rÃ­tse a bÃ¶ngÃ©szoje gyorsÃ­tÃ³tÃ¡rÃ¡t.',
+		'theme:goblue:background' => 'HÃ¡ttÃ©r',		
+		'logo_images:settings' => 'BeÃ¡llÃ­tÃ¡sok',
 		
-		'admin:theme:logoimg' => 'Logó háttere',
+		'admin:theme:logoimg' => 'LogÃ³ hÃ¡ttere',
 );
 ossn_register_languages('hu', $hu);

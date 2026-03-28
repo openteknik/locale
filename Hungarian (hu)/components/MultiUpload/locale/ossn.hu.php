@@ -9,6 +9,6 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'multiupload:text' => 'KÈrj¸k, Ìrjon szˆveget az idovonal bejegyzÈsÈhez!',
+	'multiupload:text' => 'K√©rj√ºk, √≠rjon sz√∂veget az idovonal bejegyz√©s√©hez!',
 );
 ossn_register_languages('hu', $hu);

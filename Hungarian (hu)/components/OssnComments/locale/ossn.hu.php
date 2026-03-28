@@ -9,15 +9,15 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-	'write:comment' => 'Írj hozzászólást...',
+	'write:comment' => 'Ărj hozzĂĄszĂłlĂĄst...',
 	'like' => 'Tetszik',
-	'unlike' => 'Mégsem tetszik',
-	'comment:deleted' => 'Hozzászólás törölve!',
-	'comment:delete:error' => 'Nem törölhető a hozzászólás! Kérünk, próbáld meg később',
-	'comment:delete' => 'Törlés',
-	'comment:comment' => 'Hozzászólás',
-	'comment:view:all' => 'Összes hozzászólás',
-	'comment:edit:success' => 'A hozzászólás sikeresen szerkesztve',
-	'comment:edit:failed' => 'Nem szerkesztheted a hozzászólást',
+	'unlike' => 'MĂŠgsem tetszik',
+	'comment:deleted' => 'HozzĂĄszĂłlĂĄs tĂśrĂślve!',
+	'comment:delete:error' => 'Nem tĂśrĂślhetĹ a hozzĂĄszĂłlĂĄs! KĂŠrĂźnk, prĂłbĂĄld meg kĂŠsĹbb',
+	'comment:delete' => 'TĂśrlĂŠs',
+	'comment:comment' => 'HozzĂĄszĂłlĂĄs',
+	'comment:view:all' => 'Ăsszes hozzĂĄszĂłlĂĄs',
+	'comment:edit:success' => 'A hozzĂĄszĂłlĂĄs sikeresen szerkesztve',
+	'comment:edit:failed' => 'Nem szerkesztheted a hozzĂĄszĂłlĂĄst',
 );
 ossn_register_languages('hu', $hu); 

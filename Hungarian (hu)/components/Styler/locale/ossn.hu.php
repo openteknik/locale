@@ -9,17 +9,17 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'styler' => 'StÌlusv·lasztÛ',
+	'styler' => 'St√≠lusv√°laszt√≥',
 	'styler:brown' => 'Barna',
-	'styler:blue' => 'KÈk',
-	'styler:darkyellow' => 'SˆtÈts·rga',
-	'styler:montego' => 'Montego (KÈkeszˆld)',
-	'styler:green' => 'Zˆld',
-	'styler:pink' => 'RÛzsaszÌn',
+	'styler:blue' => 'K√©k',
+	'styler:darkyellow' => 'S√∂t√©ts√°rga',
+	'styler:montego' => 'Montego (K√©kesz√∂ld)',
+	'styler:green' => 'Z√∂ld',
+	'styler:pink' => 'R√≥zsasz√≠n',
 	'styler:red' => 'Piros',
 	
-	'styler:select:color' => 'V·lasszon szÌnt az al·bbiak kˆz¸l',
-	'styler:save:error' => 'A be·llÌt·sok mentÈse sikertelen',
-	'styler:saved' => 'A be·llÌt·sok elmentve',
+	'styler:select:color' => 'V√°lasszon sz√≠nt az al√°bbiak k√∂z√ºl',
+	'styler:save:error' => 'A be√°ll√≠t√°sok ment√©se sikertelen',
+	'styler:saved' => 'A be√°ll√≠t√°sok elmentve',
 );
 ossn_register_languages('hu', $hu);

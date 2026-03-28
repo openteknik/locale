@@ -9,18 +9,18 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'banuser:unban' => 'Felhasználó kitiltásának feloldása',
-    'banuser' => 'Felhasználó kitiltása',
-	'banuser:invalid:user' => 'Érvénytelen felhasználó',
-	'banuser:banned' => 'A felhasználó sikeresen kitiltva',
-	'banuser:ban:failed' => 'A felhasználó kitiltása sikertelen',
+	'banuser:unban' => 'FelhasznÃ¡lÃ³ kitiltÃ¡sÃ¡nak feloldÃ¡sa',
+    'banuser' => 'FelhasznÃ¡lÃ³ kitiltÃ¡sa',
+	'banuser:invalid:user' => 'Ã‰rvÃ©nytelen felhasznÃ¡lÃ³',
+	'banuser:banned' => 'A felhasznÃ¡lÃ³ sikeresen kitiltva',
+	'banuser:ban:failed' => 'A felhasznÃ¡lÃ³ kitiltÃ¡sa sikertelen',
 	
-	'banuser:unbanned' => 'A kitiltás sikeresen feloldva',
-	'banuser:unban:failed' => 'A kitiltás feloldása sikertelen',
+	'banuser:unbanned' => 'A kitiltÃ¡s sikeresen feloldva',
+	'banuser:unban:failed' => 'A kitiltÃ¡s feloldÃ¡sa sikertelen',
 	
-	'banuser:notice' => 'Ezt a felhasználót kitiltották az oldalról, mert megsértette a felhasználási feltételeket.',
+	'banuser:notice' => 'Ezt a felhasznÃ¡lÃ³t kitiltottÃ¡k az oldalrÃ³l, mert megsÃ©rtette a felhasznÃ¡lÃ¡si feltÃ©teleket.',
 	
-	'banuser:banned:login' => 'Ki lettél tiltva errol a weboldalról.',
+	'banuser:banned:login' => 'Ki lettÃ©l tiltva errol a weboldalrÃ³l.',
 	
 );
 ossn_register_languages('hu', $hu);

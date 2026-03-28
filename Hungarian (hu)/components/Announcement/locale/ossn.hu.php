@@ -10,10 +10,10 @@
  */
 ossn_register_languages('hu', array(
 	'announcement' => 'Site Announcement', // don't translate this line
-	'announcement:title' => 'Közlemény!',
+	'announcement:title' => 'KÃ¶zlemÃ©ny!',
 	
-	'announcement:save:error' => 'A közleményt nem sikerült menteni',
-	'announcement:saved' => 'A közlemény elmentve',
-	'announcement:text' => 'Adja meg a hirdetmény szövegét',
-	'announcement:type' => 'Hirdetmény típusa',
+	'announcement:save:error' => 'A kÃ¶zlemÃ©nyt nem sikerÃ¼lt menteni',
+	'announcement:saved' => 'A kÃ¶zlemÃ©ny elmentve',
+	'announcement:text' => 'Adja meg a hirdetmÃ©ny szÃ¶vegÃ©t',
+	'announcement:type' => 'HirdetmÃ©ny tÃ­pusa',
 ));

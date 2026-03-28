@@ -9,19 +9,19 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'category' => 'Kategória',
-	'categories' => 'Felhasználói kategóriák',
-    'categories:categry:add:failed' => 'A kategória hozzáadása sikertelen',
-	'categories:categry:added' => 'Kategória sikeresen hozzáadva',
-	'categories:categry:exists' => 'Ez a kategória már létezik',
-	'category:title' => 'Név (csak betuk)',
-	'category:description' => 'Leírás',
-	'categories:alphabets:only' => 'Kérjük, csak betuket használjon a névben, szóköz és speciális karakterek nélkül.',
+	'category' => 'KategÃ³ria',
+	'categories' => 'FelhasznÃ¡lÃ³i kategÃ³riÃ¡k',
+    'categories:categry:add:failed' => 'A kategÃ³ria hozzÃ¡adÃ¡sa sikertelen',
+	'categories:categry:added' => 'KategÃ³ria sikeresen hozzÃ¡adva',
+	'categories:categry:exists' => 'Ez a kategÃ³ria mÃ¡r lÃ©tezik',
+	'category:title' => 'NÃ©v (csak betuk)',
+	'category:description' => 'LeÃ­rÃ¡s',
+	'categories:alphabets:only' => 'KÃ©rjÃ¼k, csak betuket hasznÃ¡ljon a nÃ©vben, szÃ³kÃ¶z Ã©s speciÃ¡lis karakterek nÃ©lkÃ¼l.',
 	
-	'categories:delete:failed' => 'A kategória törlése sikertelen',
-	'categories:categry:deleted' => 'Kategória sikeresen törölve',
+	'categories:delete:failed' => 'A kategÃ³ria tÃ¶rlÃ©se sikertelen',
+	'categories:categry:deleted' => 'KategÃ³ria sikeresen tÃ¶rÃ¶lve',
 	
-	'categories:select' => '- Válasszon kategóriát -',
-	'categories:add' => 'Kategória hozzáadása',
+	'categories:select' => '- VÃ¡lasszon kategÃ³riÃ¡t -',
+	'categories:add' => 'KategÃ³ria hozzÃ¡adÃ¡sa',
 );
 ossn_register_languages('hu', $hu);

@@ -9,6 +9,6 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'hangout' => 'Audio/VideÛ hÌv·s',
+	'hangout' => 'Audio/Vide√≥ h√≠v√°s',
 );
 ossn_register_languages('hu', $hu);

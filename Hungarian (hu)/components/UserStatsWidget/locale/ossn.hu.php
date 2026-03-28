@@ -9,8 +9,8 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 ossn_register_languages('hu', array(
-			'userstats:friends' => 'Ismerosök',
-			'userstats:comments' => 'Hozzászólások',
-			'userstats:reactions' => 'Reakciók',
-			'userstats:posts' => 'Bejegyzések',
+			'userstats:friends' => 'IsmerosÃ¶k',
+			'userstats:comments' => 'HozzÃ¡szÃ³lÃ¡sok',
+			'userstats:reactions' => 'ReakciÃ³k',
+			'userstats:posts' => 'BejegyzÃ©sek',
 ));

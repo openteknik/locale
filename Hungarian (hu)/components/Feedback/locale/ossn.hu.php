@@ -9,18 +9,18 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-		'feedback' => 'VisszajelzÈs',
-		'feeback:desc' => 'Õrja meg visszajelzÈsÈt al·bb',
-		'feeback:rate' => '¡ltal·nos tapasztalat:',
-		'feedback:submit' => 'VisszajelzÈs bek¸ldÈse',
-		'feedback:added' => 'A visszajelzÈs hozz·adva',
-		'feedback:add:failed' => 'A visszajelzÈs hozz·ad·sa sikertelen',
-		'feedback:from' => 'FeladÛ',
-		'feedback:rate' => '…rtÈkelÈs',
-		'feedback:delete' => 'TˆrlÈs',
-		'feedback:message' => '‹zenet',
-		'feedback' => 'VisszajelzÈs',
-		'feedback:deleted' => 'A visszajelzÈs tˆrˆlve',
-		'feedback:deleted:error' => 'A visszajelzÈs tˆrlÈse sikertelen',
+		'feedback' => 'Visszajelz√©s',
+		'feeback:desc' => '√çrja meg visszajelz√©s√©t al√°bb',
+		'feeback:rate' => '√Åltal√°nos tapasztalat:',
+		'feedback:submit' => 'Visszajelz√©s bek√ºld√©se',
+		'feedback:added' => 'A visszajelz√©s hozz√°adva',
+		'feedback:add:failed' => 'A visszajelz√©s hozz√°ad√°sa sikertelen',
+		'feedback:from' => 'Felad√≥',
+		'feedback:rate' => '√ârt√©kel√©s',
+		'feedback:delete' => 'T√∂rl√©s',
+		'feedback:message' => '√úzenet',
+		'feedback' => 'Visszajelz√©s',
+		'feedback:deleted' => 'A visszajelz√©s t√∂r√∂lve',
+		'feedback:deleted:error' => 'A visszajelz√©s t√∂rl√©se sikertelen',
 );
 ossn_register_languages('hu', $hu);

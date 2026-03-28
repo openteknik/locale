@@ -9,21 +9,21 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-		'report' => 'Jelentés',
-		'report:this' => 'Tartalom jelentése',
-		'report:file:failed' => 'A jelentést nem sikerült rögzíteni.',
-		'report:filed' => 'Sikeresen jelentetted a tartalmat az oldal adminisztrátorának.',
+		'report' => 'JelentÃ©s',
+		'report:this' => 'Tartalom jelentÃ©se',
+		'report:file:failed' => 'A jelentÃ©st nem sikerÃ¼lt rÃ¶gzÃ­teni.',
+		'report:filed' => 'Sikeresen jelentetted a tartalmat az oldal adminisztrÃ¡torÃ¡nak.',
 		'report:settings' => 'Bejelentett tartalmak',
-		'report:deleted' => 'A jelentés törölve',
-		'report:delete:error' => 'A jelentést nem sikerült törölni',
+		'report:deleted' => 'A jelentÃ©s tÃ¶rÃ¶lve',
+		'report:delete:error' => 'A jelentÃ©st nem sikerÃ¼lt tÃ¶rÃ¶lni',
 		'ossn:notifications:report' => '%s jelentett egy tartalmat.',
 		
 		'report:reason' => 'Indok:',
 		'report:reportedby' => 'Bejelentette:',
 		'report:time:created' => 'Idopont',	
-		'report:view' => 'Tartalom megtekintése',
-		'report:read' => 'Megjelölés olvasottként',
-		'report:type' => 'Típus',
+		'report:view' => 'Tartalom megtekintÃ©se',
+		'report:read' => 'MegjelÃ¶lÃ©s olvasottkÃ©nt',
+		'report:type' => 'TÃ­pus',
 		'report:data' => 'Adat',
 		
 );

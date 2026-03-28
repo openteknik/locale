@@ -9,13 +9,13 @@
  * @link       https://www.openteknik.com
  */
 $hu = array(
-	'stories' => 'TˆrtÈnetek',
-	'stories:title' => 'CÌm (opcion·lis)',
-	'stories:story:add' => 'TˆrtÈnet hozz·ad·sa',
-	'stories:added' => 'A tˆrtÈnetek elmentve',
-	'stories:add:failed' => 'A tˆrtÈneteket nem siker¸lt hozz·adni a rendszerhez',
-	'stories:deleted:status' => 'Az ·llapot tˆrˆlve',
-	'stories:delete:failed' => 'A tˆrtÈneteket nem siker¸lt tˆrˆlni',
-	'stories:cron' => 'KÈrje meg t·rhelyszolg·ltatÛj·t, hogy adja hozz· a kˆvetkezo cron-feladatot a fiÛkj·hoz. Ez fogja tˆrˆlni a rÈgi tˆrtÈneteket.'
+	'stories' => 'T√∂rt√©netek',
+	'stories:title' => 'C√≠m (opcion√°lis)',
+	'stories:story:add' => 'T√∂rt√©net hozz√°ad√°sa',
+	'stories:added' => 'A t√∂rt√©netek elmentve',
+	'stories:add:failed' => 'A t√∂rt√©neteket nem siker√ºlt hozz√°adni a rendszerhez',
+	'stories:deleted:status' => 'Az √°llapot t√∂r√∂lve',
+	'stories:delete:failed' => 'A t√∂rt√©neteket nem siker√ºlt t√∂r√∂lni',
+	'stories:cron' => 'K√©rje meg t√°rhelyszolg√°ltat√≥j√°t, hogy adja hozz√° a k√∂vetkezo cron-feladatot a fi√≥kj√°hoz. Ez fogja t√∂r√∂lni a r√©gi t√∂rt√©neteket.'
 );
 ossn_register_languages('hu', $hu);

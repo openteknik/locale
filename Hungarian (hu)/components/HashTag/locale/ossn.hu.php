@@ -9,7 +9,7 @@
  * @link       https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-		'hashtag:trending' => 'Népszeru',
-		'hashtag:counter' => '%s idovonal bejegyzés',
+		'hashtag:trending' => 'NÃ©pszeru',
+		'hashtag:counter' => '%s idovonal bejegyzÃ©s',
 );
 ossn_register_languages('hu', $hu);

@@ -9,13 +9,13 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-	'censorship' => 'Cenz˙ra',
-	'censorship:add:words' => 'Adja meg a szavakat al·bb',
-	'censorship:add:words:note' => 'A szavakat vesszovel elv·lasztva adja meg (,). SzÛ1, SzÛ2, SzÛ3',
+	'censorship' => 'Cenz√∫ra',
+	'censorship:add:words' => 'Adja meg a szavakat al√°bb',
+	'censorship:add:words:note' => 'A szavakat vesszovel elv√°lasztva adja meg (,). Sz√≥1, Sz√≥2, Sz√≥3',
 	
-	'censorship:replace:string' => 'Karaktersorozat a tiltott szavak helyettesÌtÈsÈre',
-	'censorship:fields:error' => 'Minden mezo kitˆltÈse kˆtelezo',
-	'censorship:saved' => 'Be·llÌt·sok mentve',
-	'censorship:save:error' => 'A be·llÌt·sok mentÈse sikertelen',
+	'censorship:replace:string' => 'Karaktersorozat a tiltott szavak helyettes√≠t√©s√©re',
+	'censorship:fields:error' => 'Minden mezo kit√∂lt√©se k√∂telezo',
+	'censorship:saved' => 'Be√°ll√≠t√°sok mentve',
+	'censorship:save:error' => 'A be√°ll√≠t√°sok ment√©se sikertelen',
 );
 ossn_register_languages('hu', $hu);

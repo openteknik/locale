@@ -9,8 +9,8 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $hu = array(
-    'birthdays:upcoming' => 'Kˆzelgo sz¸letÈsnapok',
-	'birthdays:on' => '%s sz¸letÈsnapja ekkor van: %d',
-	'birthdays:nobirthday' => 'Nincsenek kˆzelgo sz¸letÈsnapok!',
+    'birthdays:upcoming' => 'K√∂zelgo sz√ºlet√©snapok',
+	'birthdays:on' => '%s sz√ºlet√©snapja ekkor van: %d',
+	'birthdays:nobirthday' => 'Nincsenek k√∂zelgo sz√ºlet√©snapok!',
 );
 ossn_register_languages('hu', $hu);

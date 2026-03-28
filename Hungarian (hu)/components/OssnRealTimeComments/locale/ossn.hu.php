@@ -9,6 +9,6 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $hu = array(
-	'rtcomments:typing' => 'Valaki éppen ír...',
+	'rtcomments:typing' => 'Valaki ĂŠppen Ă­r...',
 );
 ossn_register_languages('hu', $hu); 
