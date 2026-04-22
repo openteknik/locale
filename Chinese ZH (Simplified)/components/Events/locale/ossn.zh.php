@@ -80,5 +80,6 @@ $zh = array(
 	'event:cal:next' => '下个',
 	'event:cal:previous' => '上个',
 	'event:calendar' => '日历',
+	'event:free' => '免费',
 );
 ossn_register_languages('zh', $zh);

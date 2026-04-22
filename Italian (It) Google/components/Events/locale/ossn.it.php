@@ -66,4 +66,5 @@ ossn_register_languages('it', array(
 	 'event:cal:next' => 'Prossimo', 
 	 'event:cal:previous' => 'Precedente', 
 	 'event:calendar' => 'Calendario', 
+	 'event:free' => 'Gratuito',
 ));

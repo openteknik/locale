@@ -54,4 +54,5 @@ ossn_register_languages('de', array(
 	 'event:finished:no' => 'Nein', 
 	 'event:finished:yes' => 'Ja', 
 	 'event:finished' => 'Die Veranstaltung ist beendet!', 
+	 'event:free' => 'Kostenlos',
 ));

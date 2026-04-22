@@ -80,5 +80,6 @@ $hu = array(
 	'event:cal:next' => 'Következo',
 	'event:cal:previous' => 'Elozo',
 	'event:calendar' => 'Naptár',
+	'event:free' => 'Ingyenes',
 );
 ossn_register_languages('hu', $hu);

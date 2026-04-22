@@ -55,4 +55,5 @@ ossn_register_languages('he', array(
 	 'event:finished:yes' => 'כן', 
 	 'event:finished' => 'האירוע הסתיים!', 
 	 'event:nothing:to:show' => 'אין פריט להצגה!', 
+	 'event:free' => 'חינם',
 ));

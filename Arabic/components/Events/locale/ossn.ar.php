@@ -66,4 +66,5 @@ ossn_register_languages('ar', array(
 	 'event:cal:next' => 'تالي', 
 	 'event:cal:previous' => 'سابق', 
 	 'event:calendar' => 'التقويم', 
+	 'event:free' => 'مجاني',
 ));

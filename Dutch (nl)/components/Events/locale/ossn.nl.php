@@ -54,4 +54,5 @@ ossn_register_languages('nl', array(
 	 'event:finished:no' => 'Nee', 
 	 'event:finished:yes' => 'Ja', 
 	 'event:finished' => 'Het evenement is afgelopen!', 
+	 'event:free' => 'Gratis',
 ));
