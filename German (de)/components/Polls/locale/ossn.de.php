@@ -35,5 +35,16 @@ ossn_register_languages('de', array(
 	 'polls:status:opened' => 'Geöffnet', 
 	 'polls:all' => 'Alle Polls', 
 	 'polls:group' => 'Gruppe', 
-	 'polls:join:group' => 'Sie müssen einer Gruppe beitreten, um die Umfragen anzeigen zu können.', 
+	 'polls:join:group' => 'Sie müssen einer Gruppe beitreten, um die Umfragen anzeigen zu können.',
+    // missing translation-
+    'polls:my' => 'Meine Umfragen',
+    'polls:list' => 'Umfragenlisten',
+    'polls:show:voters' => 'Wähler anzeigen',
+    'polls:voters' => 'Wähler',
+    'polls:show:voters:note' => 'Benutzern erlauben, Wähler zu sehen',
+    'poll:yes' => 'Ja',
+    'poll:no' => 'Nein',
+    'polls:error:atleast2' => 'Umfrage benötigt mindestens 2 Optionen!',
+    'polls:error:duplicate:options' => 'Umfrageoptionen müssen eindeutig sein!',
+
 ));

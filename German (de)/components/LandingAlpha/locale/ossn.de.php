@@ -20,4 +20,10 @@ ossn_register_languages('de', array(
     'landingalpha:logo' => 'Neues Logo hochladen',
     'landingalpha:logo:large' => 'Die Logodatei ist zu groß!',
     'landingalpha:logo:failed' => 'Logo-Upload fehlgeschlagen!',
+    // missing translation-
+    'landingalpha:background' => 'Hintergrund',
+    'landingalpha:background:toolarge' => 'Hintergrundbild zu groÃŸ!',
+    'landingalpha:background:failed' => 'Hintergrund-Upload fehlgeschlagen!',
+    'landingalpha:maintext' => 'Text unter dem Logo HTML (optional)',
+
 ));

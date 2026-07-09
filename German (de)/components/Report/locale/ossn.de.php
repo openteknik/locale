@@ -17,5 +17,9 @@ ossn_register_languages('de', array(
 	 'report:reportedby' => 'Gemeldet von:', 
 	 'report:time:created' => 'Zeit', 
 	 'report:view' => 'Inhalt anzeigen', 
-	 'report:read' => 'Lesezeichen', 
+	 'report:read' => 'Lesezeichen',
+    // missing translation-
+    'report:type' => 'Typ',
+    'report:data' => 'Daten',
+
 ));

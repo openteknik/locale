@@ -70,5 +70,8 @@ $de = array(
 	'forum:topic:wall:added' => 'hat ein neues Forenthema hinzugefügt %s',
 	'forum:topic:reply:wall:added' => 'hat eine Antwort zum Forenthema hinzugefügt %s',
 	'forum:readmore' => 'Mehr lesen',
+    // missing translation-
+    'forum:replies' => 'Antworten',
+
 );
 ossn_register_languages('de', $de);

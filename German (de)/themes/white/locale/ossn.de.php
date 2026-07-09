@@ -34,5 +34,13 @@ $en = array(
 		'theme:white:yes'                  => 'Ja',
 		'theme:white:no'                   => 'Nein',
 		'theme:white:lbgs:reset' 		   => 'Zurücksetzen',
+    // missing translation-
+    'theme:white:createacct' => 'Erstellen Sie Ihr Konto',
+    'theme:white:loginhere' => 'Hier anmelden',
+    'theme:white:alreadymem' => 'Schon Mitglied?',
+    'theme:white:welcomeback' => 'Willkommen zurÃ¼ck',
+    'theme:white:donthaveacc' => 'Sie haben noch kein Konto?',
+    'theme:white:createnow' => 'Jetzt eins erstellen',
+
 );
 ossn_register_languages('de', $en);

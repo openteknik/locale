@@ -140,4 +140,9 @@ Danke!",
 	'tier:manualattach:done'                       => 'Benutzer zur Stufe hinzugefügt!',
 	'membershiptier:date:format'                   => 'Datumsformat',
 	'membershiptier:duration:yearly'               => 'Jährlich',
+    // missing translation-
+    'membershiptier:gadget:page:polls:add' => 'Seite | Umfrage hinzufÃ¼gen',
+    'membershiptier:gadget:page:polls:all' => 'Seite | Umfragenliste',
+    'membershiptier:gadget:page:page:add' => 'Seite | GeschÃ¤ftsseite hinzufÃ¼gen',
+
 ));

@@ -54,5 +54,11 @@ ossn_register_languages('de', array(
 	 'video:com:converion:cron:pending' => 'Dieses Video ist in der Warteschlange für die Konvertierung anstehen! Sie können Video nicht bearbeiten/löschen, während Sie in der Warteschlange für die Konvertierung sind.', 
 	 'video:com:pending' => 'Anstehend', 
 	 'video:com:cronjob' => 'Umwandlung CRON-Job', 
-	 'video:com:cronjob:text' => 'CRON-Job ist erforderlich, um die Videos im Backend zu konvertieren. Sie können Ihren Hosting-Provider bitten, den Cron-Job in Ihrem Hosting-Account hinzuzufügen. Sie können /usr/bin/php durch den tatsächlichen Pfad für php-Binärdateien ersetzen.', 
+	 'video:com:cronjob:text' => 'CRON-Job ist erforderlich, um die Videos im Backend zu konvertieren. Sie können Ihren Hosting-Provider bitten, den Cron-Job in Ihrem Hosting-Account hinzuzufügen. Sie können /usr/bin/php durch den tatsächlichen Pfad für php-Binärdateien ersetzen.',
+    // missing translation-
+    'video:watch' => 'Ansehen',
+    'video:watch:autoplay' => 'Nächstes Video automatisch abspielen',
+    'video:watch:autoplay:txt' => 'Aktivieren Sie diese Option, um das nächste Video in der Warteschlange automatisch abzuspielen.',
+    'video:watch:btn:playsound' => 'Klicken, um mit Ton abzuspielen',
+
 ));

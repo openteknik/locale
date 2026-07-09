@@ -9,5 +9,8 @@ ossn_register_languages('de', array(
 	 'announcement:title' => 'Ankündigung!', 
 	 'announcement:save:error' => 'Die Ankündigung konnte nicht gespeichert werden.', 
 	 'announcement:saved' => 'Die Ankündigung wurde gespeichert.', 
-	 'announcement:text' => 'Geben Sie Ihre Ankündigung ein', 
+	 'announcement:text' => 'Geben Sie Ihre Ankündigung ein',
+    // missing translation-
+    'announcement:type' => 'Typ der Ankündigung',
+
 ));

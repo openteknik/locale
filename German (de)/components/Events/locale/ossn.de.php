@@ -55,4 +55,18 @@ ossn_register_languages('de', array(
 	 'event:finished:yes' => 'Ja', 
 	 'event:finished' => 'Die Veranstaltung ist beendet!', 
 	 'event:free' => 'Kostenlos',
+    // missing translation-
+    'event:nothing:to:show' => 'Es gibt nichts anzuzeigen!',
+    'event:cal:close' => 'Schließen',
+    'event:cal:month' => 'Monat',
+    'event:cal:list' => 'Liste',
+    'event:cal:resources' => 'Ressourcen',
+    'event:cal:timeline' => 'Zeitleiste',
+    'event:cal:day' => 'Tag',
+    'event:cal:week' => 'Woche',
+    'event:cal:today' => 'Heute',
+    'event:cal:next' => 'Nächster',
+    'event:cal:previous' => 'Vorheriger',
+    'event:calendar' => 'Kalender',
+
 ));

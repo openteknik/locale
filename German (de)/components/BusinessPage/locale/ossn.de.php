@@ -40,5 +40,15 @@ ossn_register_languages('de', array(
 	 'bpage:fileds:required' => 'Stellen Sie sicher, dass Sie Name, Beschreibung und Kategorie eingegeben haben', 
 	 'bpage:added' => 'Seite wurde erstellt', 
 	 'bpage:likedpages' => 'Mochte Seiten', 
-	 'bpage:mypages' => 'Eigene Seiten', 
+	 'bpage:mypages' => 'Eigene Seiten',
+    // missing translation-
+    'bpage:likes' => '%s Likes',
+    'bpage:about' => 'Info',
+    'bpage:delete:warning' => 'Beim Löschen werden alle Inhalte dauerhaft entfernt, einschließlich zugehöriger Beiträge, Kommentare, Medien und Einstellungen. Diese Aktion kann nicht rückgängig gemacht werden und die Daten können nach dem Löschen nicht wiederhergestellt werden.',
+    'bpage:ownership' => 'Inhaberwechsel!',
+    'bpage:ownership:warning' => 'Sie können die Inhaberschaft Ihrer Seite an einen anderen Nutzer übertragen, aber der Nutzer muss Ihr Freund sein. Sobald die Inhaberschaft übertragen wurde, kann dies nicht rückgängig gemacht werden, es sei denn, Ihr Freund überträgt sie Ihnen zurück.',
+    'bpage:select:friends' => 'Freund auswählen',
+    'bpage:website:invalid' => 'Ungültige Website-URL. Sie sollte so aussehen: https://ihrewebsite.com',
+    'bpage:username:note' => 'Wählen Sie Ihren Benutzernamen mit Bedacht! Sie können ihn nur einmal festlegen, und er kann später nicht mehr geändert werden. Sobald Sie ihn gewählt haben, können Sie Ihre Seite jederzeit unter: %s besuchen',
+
 ));
