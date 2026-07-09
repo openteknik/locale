@@ -23,5 +23,9 @@ ossn_register_languages('pt', array(
 	 'profile:covers' => 'Capas De Perfil', 
 	 'delete:album' => 'Excluir Álbum', 
 	 'photo:album:deleted' => 'Álbum de fotos eliminado com sucesso', 
-	 'photo:album:delete:error' => 'Não é possível excluir álbum de fotos', 
+	 'photo:album:delete:error' => 'Não é possível excluir álbum de fotos',
+    
+    'ossn:notifications:comments:object:ossn:album' => '%s comentou no seu álbum de fotos %s',
+    'ossn:notifications:like:object:ossn:album' => '%s curtiu sua(s) foto(s) em um álbum %s',
+
 ));

@@ -23,5 +23,8 @@ ossn_register_languages('pt', array(
 	 'ossn:wall:allsite:posts' => 'Todos os posts do site', 
 	 'ossn:wall:friends:posts' => 'Posts de amigos apenas', 
 	 'ossn:wall:post:saved' => 'Post salvo com sucesso', 
-	 'ossn:wall:post:save:error' => 'Não pode salvar post', 
+	 'ossn:wall:post:save:error' => 'Não pode salvar post',
+    
+    'ossn:wall:tag:member' => 'Marcar Membro',
+
 ));

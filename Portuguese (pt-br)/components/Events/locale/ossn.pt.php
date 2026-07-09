@@ -55,4 +55,18 @@ ossn_register_languages('pt', array(
 	 'event:finished:yes' => 'Sim', 
 	 'event:finished' => 'O evento foi terminado!', 
 	 'event:free' => 'Grátis',
+    
+    'event:nothing:to:show' => 'Não há nenhum item para mostrar!',
+    'event:cal:close' => 'Fechar',
+    'event:cal:month' => 'Mês',
+    'event:cal:list' => 'Lista',
+    'event:cal:resources' => 'Recursos',
+    'event:cal:timeline' => 'Linha do tempo',
+    'event:cal:day' => 'Dia',
+    'event:cal:week' => 'Semana',
+    'event:cal:today' => 'Hoje',
+    'event:cal:next' => 'Próximo',
+    'event:cal:previous' => 'Anterior',
+    'event:calendar' => 'Calendário',
+
 ));

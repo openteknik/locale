@@ -17,5 +17,8 @@ ossn_register_languages('pt', array(
 	 'ossnmessages:delete:all:note' => 'Você removerá permanentemente esta mensagem para outro membro. Outro membro será capaz de ver que você removeu uma mensagem.', 
 	 'ossnmessages:delete:me' => 'Remover para você', 
 	 'ossnmessages:delete:me:note' => 'Esta mensagem será removida para você. Outro membro ainda será capaz de vê-lo.', 
-	 'ossnmessages:replied:you' => 'Você: %s', 
+	 'ossnmessages:replied:you' => 'Você: %s',
+    
+    'message:fileattachment' => 'Anexo de Arquivo',
+
 ));

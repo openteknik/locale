@@ -51,5 +51,8 @@ ossn_register_languages('pt', array(
 	 'group:delete:fail' => 'Grupo não pôde ser excluído', 
 	 'group:delete:cover' => 'Capa De Exclusão', 
 	 'group:delete:cover:error' => 'Ocorreu um erro ao excluir a imagem da tampa', 
-	 'group:delete:cover:success' => 'A imagem da capa foi excluída com sucesso', 
+	 'group:delete:cover:success' => 'A imagem da capa foi excluída com sucesso',
+    
+    'group:my' => 'Meus Grupos',
+
 ));

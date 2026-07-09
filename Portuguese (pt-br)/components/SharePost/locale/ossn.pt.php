@@ -20,5 +20,9 @@ ossn_register_languages('pt', array(
 	 'post:shared:poll:title' => 'Compartilhado uma pesquisa', 
 	 'post:shared:video:title' => 'Compartilhado um vídeo %s', 
 	 'post:shared:file:title' => 'Compartilhado um arquivo', 
-	 'post:shared:marketplace:product' => 'Compartilhado um produto', 
+	 'post:shared:marketplace:product' => 'Compartilhado um produto',
+    
+    'post:shared:from:group' => 'Compartilhou uma publicação de um grupo',
+    'post:shared:from:businesspage' => 'Compartilhou uma publicação de uma página',
+
 ));

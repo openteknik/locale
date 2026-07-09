@@ -40,5 +40,15 @@ ossn_register_languages('pt', array(
 	 'bpage:fileds:required' => 'Certise-se de ter digitado nome, descrição e categoria', 
 	 'bpage:added' => 'Página foi criada', 
 	 'bpage:likedpages' => 'Páginas Gostaram', 
-	 'bpage:mypages' => 'Minhas Páginas', 
+	 'bpage:mypages' => 'Minhas Páginas',
+    
+    'bpage:likes' => '%s curtidas',
+    'bpage:about' => 'Sobre',
+    'bpage:delete:warning' => 'Excluí-lo removerá permanentemente todo o seu conteúdo, incluindo quaisquer publicações, comentários, mídias e configurações associadas. Esta ação não pode ser desfeita e os dados não podem ser recuperados uma vez excluídos.',
+    'bpage:ownership' => 'Mudança de Propriedade!',
+    'bpage:ownership:warning' => 'Você pode transferir a propriedade da sua página para outro usuário, mas o usuário deve ser seu amigo. Uma vez que a propriedade é transferida, ela não pode ser revertida, a menos que seu amigo a transfira de volta para você.',
+    'bpage:select:friends' => 'Selecionar Amigo',
+    'bpage:website:invalid' => 'URL do site inválida. Deve ser parecido com: https://seusite.com',
+    'bpage:username:note' => 'Escolha seu nome de usuário com sabedoria! Você só poderá defini-lo uma vez, e não poderá ser alterado posteriormente. Depois de escolhido, você sempre poderá visitar sua página em: %s',
+
 ));

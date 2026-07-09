@@ -54,5 +54,11 @@ ossn_register_languages('pt', array(
 	 'video:com:converion:cron:pending' => 'Este vídeo está pendente na fila para conversão! Você não pode editar / excluir vídeo enquanto na fila para conversão.', 
 	 'video:com:pending' => 'Pendente', 
 	 'video:com:cronjob' => 'Tarefa de Conversão CRON', 
-	 'video:com:cronjob:text' => 'O trabalho CRON é necessário para converter os vídeos em backend. Você pode pedir ao seu provedor de hospedagem para adicionar o trabalho cron em sua conta de hospedagem. Você pode substituir /usr/bin/php por caminho real para binários php.', 
+	 'video:com:cronjob:text' => 'O trabalho CRON é necessário para converter os vídeos em backend. Você pode pedir ao seu provedor de hospedagem para adicionar o trabalho cron em sua conta de hospedagem. Você pode substituir /usr/bin/php por caminho real para binários php.',
+    
+    'video:watch' => 'Assistir',
+    'video:watch:autoplay' => 'Reprodução Automática do Próximo Vídeo',
+    'video:watch:autoplay:txt' => 'Ative esta opção para reproduzir automaticamente o próximo vídeo na fila.',
+    'video:watch:btn:playsound' => 'Clique para Reproduzir com Som',
+
 ));

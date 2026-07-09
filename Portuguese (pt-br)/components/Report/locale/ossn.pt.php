@@ -17,5 +17,9 @@ ossn_register_languages('pt', array(
 	 'report:reportedby' => 'Relatado Por:', 
 	 'report:time:created' => 'Tempo', 
 	 'report:view' => 'Visualizar Conteúdo', 
-	 'report:read' => 'Marca Leia', 
+	 'report:read' => 'Marca Leia',
+    
+    'report:type' => 'Tipo',
+    'report:data' => 'Dados',
+
 ));

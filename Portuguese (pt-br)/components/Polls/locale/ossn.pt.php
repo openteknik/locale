@@ -35,5 +35,16 @@ ossn_register_languages('pt', array(
 	 'polls:status:opened' => 'Aberto', 
 	 'polls:all' => 'Todas As Pesquisas', 
 	 'polls:group' => 'Grupo', 
-	 'polls:join:group' => 'Você precisa se unir a grupo a fim de visualizar as pesquisas', 
+	 'polls:join:group' => 'Você precisa se unir a grupo a fim de visualizar as pesquisas',
+    
+    'polls:my' => 'Minhas Enquetes',
+    'polls:list' => 'Listas de Enquetes',
+    'polls:show:voters' => 'Mostrar votantes',
+    'polls:voters' => 'Votantes',
+    'polls:show:voters:note' => 'Permitir que usuários vejam os votantes',
+    'poll:yes' => 'Sim',
+    'poll:no' => 'Não',
+    'polls:error:atleast2' => 'A enquete precisa de pelo menos 2 opções!',
+    'polls:error:duplicate:options' => 'As opções da enquete precisam ser únicas!',
+
 ));

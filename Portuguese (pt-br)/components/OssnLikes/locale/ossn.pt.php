@@ -12,5 +12,15 @@ ossn_register_languages('pt', array(
 	 'ossn:like:person' => '%s Pessoa', 
 	 'ossn:liked:you' => 'Você reagiu sobre isso', 
 	 'ossn:unlike' => 'Ao contrário', 
-	 'ossn:like' => 'Como', 
+	 'ossn:like' => 'Como',
+    
+    'ossn:reaction:like' => 'Curtir',
+    'ossn:reaction:dislike' => 'Não Curtir',
+    'ossn:reaction:love' => 'Amei',
+    'ossn:reaction:haha' => 'Haha',
+    'ossn:reaction:yay' => 'Oba!',
+    'ossn:reaction:wow' => 'Uau!',
+    'ossn:reaction:sad' => 'Triste',
+    'ossn:reaction:angry' => 'Irritado',
+
 ));
